@@ -1,0 +1,22 @@
+#!/bin/bash
+
+matrixsize=512		# Size of the matrix on which threads work
+arg='p'			# p = process wide scheduling ; t = thread wide scheduling
+
+if [ -e ./matrix ]	# if the executable file matrix exists,
+then
+	true		# we have to do nothing
+else
+	make		# otherwise compile it
+fi
+
+for i in {1..32}	# Varying the extra thread size from 1 to 32
+do
+	./matrix $arg $i $matrixsize		# Running ./matrix with the appropriate arguments
+	echo "--------------------------------------------------------------"
+	echo "Press ENTER to run next test"
+	echo "Press Ctrl+C to stop"
+	echo "--------------------------------------------------------------"
+	read					# Wait for a newline
+	sleep 2s
+done

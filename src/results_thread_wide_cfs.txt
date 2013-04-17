@@ -1,0 +1,2512 @@
+# of threads in optimal process = 24
+# of threads in greedy process = 25
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.534529 s
+Thread   0 CPU time:  518734 us, elapsed time:    1537278 us
+Thread   1 CPU time:  616666 us, elapsed time:    1537321 us
+Thread   2 CPU time:  627163 us, elapsed time:    1537299 us
+Thread   3 CPU time:  613212 us, elapsed time:    1537301 us
+Thread   4 CPU time:  622958 us, elapsed time:    1537284 us
+Thread   5 CPU time:  634687 us, elapsed time:    1537303 us
+Thread   6 CPU time:  644179 us, elapsed time:    1537319 us
+Thread   7 CPU time:  641791 us, elapsed time:    1537278 us
+Thread   8 CPU time:  660455 us, elapsed time:    1537258 us
+Thread   9 CPU time:  650202 us, elapsed time:    1537243 us
+Thread  10 CPU time:  655277 us, elapsed time:    1537223 us
+Thread  11 CPU time:  619500 us, elapsed time:    1537197 us
+Thread  12 CPU time:  617842 us, elapsed time:    1537178 us
+Thread  13 CPU time:  622667 us, elapsed time:    1537168 us
+Thread  14 CPU time:  616446 us, elapsed time:    1537146 us
+Thread  15 CPU time:  623094 us, elapsed time:    1537133 us
+Thread  16 CPU time:  629138 us, elapsed time:    1537132 us
+Thread  17 CPU time:  671175 us, elapsed time:    1537075 us
+Thread  18 CPU time:  651333 us, elapsed time:    1537093 us
+Thread  19 CPU time:  656504 us, elapsed time:    1537091 us
+Thread  20 CPU time:  659742 us, elapsed time:    1537082 us
+Thread  21 CPU time:  655471 us, elapsed time:    1537072 us
+Thread  22 CPU time:  631937 us, elapsed time:    1537062 us
+Thread  23 CPU time:  615785 us, elapsed time:    1536953 us
+Thread  24 CPU time:  505823 us, elapsed time:    1495464 us
+Thread  25 CPU time:  625527 us, elapsed time:    1495441 us
+Thread  26 CPU time:  602913 us, elapsed time:    1495422 us
+Thread  27 CPU time:  617597 us, elapsed time:    1495407 us
+Thread  28 CPU time:  624011 us, elapsed time:    1495386 us
+Thread  29 CPU time:  655323 us, elapsed time:    1495351 us
+Thread  30 CPU time:  644260 us, elapsed time:    1495343 us
+Thread  31 CPU time:  657700 us, elapsed time:    1495322 us
+Thread  32 CPU time:  650346 us, elapsed time:    1495294 us
+Thread  33 CPU time:  639260 us, elapsed time:    1495275 us
+Thread  34 CPU time:  639300 us, elapsed time:    1495261 us
+Thread  35 CPU time:  618794 us, elapsed time:    1495241 us
+Thread  36 CPU time:  614473 us, elapsed time:    1495217 us
+Thread  37 CPU time:  622466 us, elapsed time:    1495201 us
+Thread  38 CPU time:  627620 us, elapsed time:    1495181 us
+Thread  39 CPU time:  622120 us, elapsed time:    1495161 us
+Thread  40 CPU time:  611939 us, elapsed time:    1495135 us
+Thread  41 CPU time:  624391 us, elapsed time:    1495114 us
+Thread  42 CPU time:  638848 us, elapsed time:    1496084 us
+Thread  43 CPU time:  639455 us, elapsed time:    1496062 us
+Thread  44 CPU time:  637558 us, elapsed time:    1495048 us
+Thread  45 CPU time:  644007 us, elapsed time:    1496034 us
+Thread  46 CPU time:  636612 us, elapsed time:    1496014 us
+Thread  47 CPU time:  611925 us, elapsed time:    1515477 us
+Thread  48 CPU time:  505847 us, elapsed time:    1473471 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15155958 us, elapsed time : 36892489 us
+Process 1: Greedy process, threadcount= 25
+CPU Time : 15518115 us, elapsed time : 37383406 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 26
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.537659 s
+Thread   0 CPU time:  515242 us, elapsed time:    1540333 us
+Thread   1 CPU time:  514900 us, elapsed time:    1540629 us
+Thread   2 CPU time:  617613 us, elapsed time:    1540611 us
+Thread   3 CPU time:  616566 us, elapsed time:    1540611 us
+Thread   4 CPU time:  616319 us, elapsed time:    1540610 us
+Thread   5 CPU time:  673410 us, elapsed time:    1540604 us
+Thread   6 CPU time:  647223 us, elapsed time:    1540625 us
+Thread   7 CPU time:  654173 us, elapsed time:    1540579 us
+Thread   8 CPU time:  651827 us, elapsed time:    1540566 us
+Thread   9 CPU time:  650876 us, elapsed time:    1540534 us
+Thread  10 CPU time:  659973 us, elapsed time:    1540533 us
+Thread  11 CPU time:  619434 us, elapsed time:    1540530 us
+Thread  12 CPU time:  618026 us, elapsed time:    1540568 us
+Thread  13 CPU time:  621114 us, elapsed time:    1540552 us
+Thread  14 CPU time:  612840 us, elapsed time:    1540534 us
+Thread  15 CPU time:  618313 us, elapsed time:    1540524 us
+Thread  16 CPU time:  616119 us, elapsed time:    1540518 us
+Thread  17 CPU time:  644358 us, elapsed time:    1540495 us
+Thread  18 CPU time:  660029 us, elapsed time:    1540491 us
+Thread  19 CPU time:  668064 us, elapsed time:    1540474 us
+Thread  20 CPU time:  659003 us, elapsed time:    1540468 us
+Thread  21 CPU time:  644400 us, elapsed time:    1540458 us
+Thread  22 CPU time:  656592 us, elapsed time:    1540445 us
+Thread  23 CPU time:  613547 us, elapsed time:    1540447 us
+Thread  24 CPU time:  505845 us, elapsed time:    1519246 us
+Thread  25 CPU time:  516275 us, elapsed time:    1499229 us
+Thread  26 CPU time:  623253 us, elapsed time:    1499214 us
+Thread  27 CPU time:  624990 us, elapsed time:    1499193 us
+Thread  28 CPU time:  617243 us, elapsed time:    1499166 us
+Thread  29 CPU time:  649626 us, elapsed time:    1499124 us
+Thread  30 CPU time:  639617 us, elapsed time:    1499124 us
+Thread  31 CPU time:  651986 us, elapsed time:    1499107 us
+Thread  32 CPU time:  648984 us, elapsed time:    1499075 us
+Thread  33 CPU time:  648671 us, elapsed time:    1499066 us
+Thread  34 CPU time:  644395 us, elapsed time:    1499045 us
+Thread  35 CPU time:  610015 us, elapsed time:    1499026 us
+Thread  36 CPU time:  626746 us, elapsed time:    1499001 us
+Thread  37 CPU time:  626642 us, elapsed time:    1498987 us
+Thread  38 CPU time:  609863 us, elapsed time:    1498967 us
+Thread  39 CPU time:  609656 us, elapsed time:    1498940 us
+Thread  40 CPU time:  616968 us, elapsed time:    1498922 us
+Thread  41 CPU time:  667655 us, elapsed time:    1498901 us
+Thread  42 CPU time:  647502 us, elapsed time:    1498881 us
+Thread  43 CPU time:  621335 us, elapsed time:    1498856 us
+Thread  44 CPU time:  624615 us, elapsed time:    1497837 us
+Thread  45 CPU time:  624678 us, elapsed time:    1498820 us
+Thread  46 CPU time:  653174 us, elapsed time:    1498800 us
+Thread  47 CPU time:  620497 us, elapsed time:    1499268 us
+Thread  48 CPU time:  505869 us, elapsed time:    1497257 us
+Thread  49 CPU time:  505849 us, elapsed time:    1477241 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15069961 us, elapsed time : 36972739 us
+Process 1: Greedy process, threadcount= 26
+CPU Time : 15941949 us, elapsed time : 38970293 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 27
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.558734 s
+Thread   0 CPU time:  519748 us, elapsed time:    1561589 us
+Thread   1 CPU time:  519724 us, elapsed time:    1561862 us
+Thread   2 CPU time:  521788 us, elapsed time:    1561849 us
+Thread   3 CPU time:  621273 us, elapsed time:    1561849 us
+Thread   4 CPU time:  615971 us, elapsed time:    1561830 us
+Thread   5 CPU time:  636720 us, elapsed time:    1561835 us
+Thread   6 CPU time:  642421 us, elapsed time:    1561853 us
+Thread   7 CPU time:  633730 us, elapsed time:    1561811 us
+Thread   8 CPU time:  648307 us, elapsed time:    1561796 us
+Thread   9 CPU time:  645141 us, elapsed time:    1561774 us
+Thread  10 CPU time:  648179 us, elapsed time:    1561773 us
+Thread  11 CPU time:  619453 us, elapsed time:    1561755 us
+Thread  12 CPU time:  620704 us, elapsed time:    1561793 us
+Thread  13 CPU time:  625137 us, elapsed time:    1561780 us
+Thread  14 CPU time:  618824 us, elapsed time:    1561753 us
+Thread  15 CPU time:  619191 us, elapsed time:    1561739 us
+Thread  16 CPU time:  627224 us, elapsed time:    1561736 us
+Thread  17 CPU time:  650558 us, elapsed time:    1561716 us
+Thread  18 CPU time:  630948 us, elapsed time:    1561710 us
+Thread  19 CPU time:  648618 us, elapsed time:    1561696 us
+Thread  20 CPU time:  647353 us, elapsed time:    1561685 us
+Thread  21 CPU time:  644679 us, elapsed time:    1561676 us
+Thread  22 CPU time:  630041 us, elapsed time:    1561639 us
+Thread  23 CPU time:  616258 us, elapsed time:    1561668 us
+Thread  24 CPU time:  505846 us, elapsed time:    1539792 us
+Thread  25 CPU time:  523669 us, elapsed time:    1520765 us
+Thread  26 CPU time:  505896 us, elapsed time:    1520759 us
+Thread  27 CPU time:  614114 us, elapsed time:    1520737 us
+Thread  28 CPU time:  623664 us, elapsed time:    1520711 us
+Thread  29 CPU time:  646129 us, elapsed time:    1520676 us
+Thread  30 CPU time:  641847 us, elapsed time:    1520675 us
+Thread  31 CPU time:  647670 us, elapsed time:    1520653 us
+Thread  32 CPU time:  649125 us, elapsed time:    1520627 us
+Thread  33 CPU time:  639978 us, elapsed time:    1520611 us
+Thread  34 CPU time:  641559 us, elapsed time:    1520590 us
+Thread  35 CPU time:  621286 us, elapsed time:    1520569 us
+Thread  36 CPU time:  615670 us, elapsed time:    1520547 us
+Thread  37 CPU time:  623243 us, elapsed time:    1520532 us
+Thread  38 CPU time:  604629 us, elapsed time:    1520512 us
+Thread  39 CPU time:  620234 us, elapsed time:    1520485 us
+Thread  40 CPU time:  616247 us, elapsed time:    1520464 us
+Thread  41 CPU time:  622683 us, elapsed time:    1520445 us
+Thread  42 CPU time:  624983 us, elapsed time:    1520426 us
+Thread  43 CPU time:  636444 us, elapsed time:    1520400 us
+Thread  44 CPU time:  623160 us, elapsed time:    1520382 us
+Thread  45 CPU time:  628068 us, elapsed time:    1520364 us
+Thread  46 CPU time:  634975 us, elapsed time:    1520345 us
+Thread  47 CPU time:  607535 us, elapsed time:    1519818 us
+Thread  48 CPU time:  516459 us, elapsed time:    1517802 us
+Thread  49 CPU time:  505843 us, elapsed time:    1498780 us
+Thread  50 CPU time:  505881 us, elapsed time:    1498754 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14851990 us, elapsed time : 37482167 us
+Process 1: Greedy process, threadcount= 27
+CPU Time : 16246837 us, elapsed time : 41027221 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 28
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.552828 s
+Thread   0 CPU time:  521797 us, elapsed time:    1556101 us
+Thread   1 CPU time:  521933 us, elapsed time:    1556406 us
+Thread   2 CPU time:  524716 us, elapsed time:    1556400 us
+Thread   3 CPU time:  523738 us, elapsed time:    1556397 us
+Thread   4 CPU time:  621535 us, elapsed time:    1556380 us
+Thread   5 CPU time:  661453 us, elapsed time:    1556384 us
+Thread   6 CPU time:  646018 us, elapsed time:    1556405 us
+Thread   7 CPU time:  656577 us, elapsed time:    1556353 us
+Thread   8 CPU time:  662973 us, elapsed time:    1556371 us
+Thread   9 CPU time:  648142 us, elapsed time:    1556329 us
+Thread  10 CPU time:  657323 us, elapsed time:    1556301 us
+Thread  11 CPU time:  613959 us, elapsed time:    1556309 us
+Thread  12 CPU time:  616008 us, elapsed time:    1556337 us
+Thread  13 CPU time:  620130 us, elapsed time:    1556329 us
+Thread  14 CPU time:  629454 us, elapsed time:    1556310 us
+Thread  15 CPU time:  622899 us, elapsed time:    1556300 us
+Thread  16 CPU time:  620121 us, elapsed time:    1556294 us
+Thread  17 CPU time:  657852 us, elapsed time:    1556273 us
+Thread  18 CPU time:  658880 us, elapsed time:    1556267 us
+Thread  19 CPU time:  658333 us, elapsed time:    1556251 us
+Thread  20 CPU time:  643321 us, elapsed time:    1556244 us
+Thread  21 CPU time:  648848 us, elapsed time:    1556235 us
+Thread  22 CPU time:  655255 us, elapsed time:    1556222 us
+Thread  23 CPU time:  619716 us, elapsed time:    1556226 us
+Thread  24 CPU time:  524238 us, elapsed time:    1534917 us
+Thread  25 CPU time:  523098 us, elapsed time:    1514910 us
+Thread  26 CPU time:  505896 us, elapsed time:    1514895 us
+Thread  27 CPU time:  505895 us, elapsed time:    1514874 us
+Thread  28 CPU time:  616010 us, elapsed time:    1514849 us
+Thread  29 CPU time:  650238 us, elapsed time:    1514822 us
+Thread  30 CPU time:  649467 us, elapsed time:    1514809 us
+Thread  31 CPU time:  642832 us, elapsed time:    1514790 us
+Thread  32 CPU time:  642197 us, elapsed time:    1514756 us
+Thread  33 CPU time:  650501 us, elapsed time:    1514749 us
+Thread  34 CPU time:  633997 us, elapsed time:    1514727 us
+Thread  35 CPU time:  610598 us, elapsed time:    1514702 us
+Thread  36 CPU time:  615996 us, elapsed time:    1514685 us
+Thread  37 CPU time:  614852 us, elapsed time:    1514669 us
+Thread  38 CPU time:  632746 us, elapsed time:    1514648 us
+Thread  39 CPU time:  630973 us, elapsed time:    1514623 us
+Thread  40 CPU time:  612407 us, elapsed time:    1514606 us
+Thread  41 CPU time:  632930 us, elapsed time:    1514584 us
+Thread  42 CPU time:  637547 us, elapsed time:    1514564 us
+Thread  43 CPU time:  638922 us, elapsed time:    1514538 us
+Thread  44 CPU time:  642264 us, elapsed time:    1514522 us
+Thread  45 CPU time:  630489 us, elapsed time:    1514502 us
+Thread  46 CPU time:  634180 us, elapsed time:    1514478 us
+Thread  47 CPU time:  622671 us, elapsed time:    1514950 us
+Thread  48 CPU time:  505865 us, elapsed time:    1512939 us
+Thread  49 CPU time:  505891 us, elapsed time:    1492922 us
+Thread  50 CPU time:  505868 us, elapsed time:    1492894 us
+Thread  51 CPU time:  519557 us, elapsed time:    1492877 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14910981 us, elapsed time : 37351424 us
+Process 1: Greedy process, threadcount= 28
+CPU Time : 16738125 us, elapsed time : 42364801 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 29
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 1.579141 s
+Thread   0 CPU time:  526341 us, elapsed time:    1580722 us
+Thread   1 CPU time:  523405 us, elapsed time:    1581046 us
+Thread   2 CPU time:  526287 us, elapsed time:    1581044 us
+Thread   3 CPU time:  525025 us, elapsed time:    1581022 us
+Thread   4 CPU time:  526712 us, elapsed time:    1581022 us
+Thread   5 CPU time:  638566 us, elapsed time:    1581011 us
+Thread   6 CPU time:  651573 us, elapsed time:    1581039 us
+Thread   7 CPU time:  658690 us, elapsed time:    1580963 us
+Thread   8 CPU time:  653481 us, elapsed time:    1580973 us
+Thread   9 CPU time:  652390 us, elapsed time:    1580956 us
+Thread  10 CPU time:  651139 us, elapsed time:    1580956 us
+Thread  11 CPU time:  620325 us, elapsed time:    1580954 us
+Thread  12 CPU time:  611707 us, elapsed time:    1580979 us
+Thread  13 CPU time:  617561 us, elapsed time:    1580970 us
+Thread  14 CPU time:  616077 us, elapsed time:    1580956 us
+Thread  15 CPU time:  618522 us, elapsed time:    1580929 us
+Thread  16 CPU time:  627605 us, elapsed time:    1580922 us
+Thread  17 CPU time:  649033 us, elapsed time:    1580898 us
+Thread  18 CPU time:  641422 us, elapsed time:    1580886 us
+Thread  19 CPU time:  636684 us, elapsed time:    1580879 us
+Thread  20 CPU time:  641907 us, elapsed time:    1580869 us
+Thread  21 CPU time:  626774 us, elapsed time:    1580861 us
+Thread  22 CPU time:  634961 us, elapsed time:    1580846 us
+Thread  23 CPU time:  608613 us, elapsed time:    1580853 us
+Thread  24 CPU time:  524850 us, elapsed time:    1559438 us
+Thread  25 CPU time:  519509 us, elapsed time:    1539427 us
+Thread  26 CPU time:  516073 us, elapsed time:    1539411 us
+Thread  27 CPU time:  525815 us, elapsed time:    1539391 us
+Thread  28 CPU time:  524137 us, elapsed time:    1539365 us
+Thread  29 CPU time:  643373 us, elapsed time:    1539338 us
+Thread  30 CPU time:  638349 us, elapsed time:    1539327 us
+Thread  31 CPU time:  665826 us, elapsed time:    1539306 us
+Thread  32 CPU time:  615859 us, elapsed time:    1539275 us
+Thread  33 CPU time:  629528 us, elapsed time:    1539263 us
+Thread  34 CPU time:  639671 us, elapsed time:    1539243 us
+Thread  35 CPU time:  614148 us, elapsed time:    1539219 us
+Thread  36 CPU time:  621333 us, elapsed time:    1539200 us
+Thread  37 CPU time:  617759 us, elapsed time:    1539184 us
+Thread  38 CPU time:  609185 us, elapsed time:    1539164 us
+Thread  39 CPU time:  617833 us, elapsed time:    1539138 us
+Thread  40 CPU time:  619122 us, elapsed time:    1539122 us
+Thread  41 CPU time:  639263 us, elapsed time:    1539097 us
+Thread  42 CPU time:  641701 us, elapsed time:    1539080 us
+Thread  43 CPU time:  606428 us, elapsed time:    1539038 us
+Thread  44 CPU time:  641346 us, elapsed time:    1539037 us
+Thread  45 CPU time:  650281 us, elapsed time:    1539017 us
+Thread  46 CPU time:  645394 us, elapsed time:    1538991 us
+Thread  47 CPU time:  621512 us, elapsed time:    1539466 us
+Thread  48 CPU time:  514829 us, elapsed time:    1537455 us
+Thread  49 CPU time:  525926 us, elapsed time:    1517438 us
+Thread  50 CPU time:  527271 us, elapsed time:    1517409 us
+Thread  51 CPU time:  520690 us, elapsed time:    1517385 us
+Thread  52 CPU time:  520444 us, elapsed time:    1517376 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14684800 us, elapsed time : 37942556 us
+Process 1: Greedy process, threadcount= 29
+CPU Time : 17197455 us, elapsed time : 44568600 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 30
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.600303 s
+Thread   0 CPU time:  524074 us, elapsed time:    1632326 us
+Thread   1 CPU time:  523809 us, elapsed time:    1632412 us
+Thread   2 CPU time:  523540 us, elapsed time:    1632402 us
+Thread   3 CPU time:  523857 us, elapsed time:    1632401 us
+Thread   4 CPU time:  526482 us, elapsed time:    1632382 us
+Thread   5 CPU time:  540343 us, elapsed time:    1632390 us
+Thread   6 CPU time:  629725 us, elapsed time:    1632408 us
+Thread   7 CPU time:  642102 us, elapsed time:    1632363 us
+Thread   8 CPU time:  658486 us, elapsed time:    1632341 us
+Thread   9 CPU time:  643135 us, elapsed time:    1632339 us
+Thread  10 CPU time:  651787 us, elapsed time:    1632326 us
+Thread  11 CPU time:  616523 us, elapsed time:    1630186 us
+Thread  12 CPU time:  618285 us, elapsed time:    1630177 us
+Thread  13 CPU time:  620060 us, elapsed time:    1630157 us
+Thread  14 CPU time:  620516 us, elapsed time:    1630148 us
+Thread  15 CPU time:  621019 us, elapsed time:    1630119 us
+Thread  16 CPU time:  616008 us, elapsed time:    1630136 us
+Thread  17 CPU time:  638732 us, elapsed time:    1630112 us
+Thread  18 CPU time:  647111 us, elapsed time:    1630105 us
+Thread  19 CPU time:  644314 us, elapsed time:    1630094 us
+Thread  20 CPU time:  635949 us, elapsed time:    1630045 us
+Thread  21 CPU time:  646351 us, elapsed time:    1630078 us
+Thread  22 CPU time:  641974 us, elapsed time:    1630062 us
+Thread  23 CPU time:  611080 us, elapsed time:    1629943 us
+Thread  24 CPU time:  527925 us, elapsed time:    1590336 us
+Thread  25 CPU time:  522755 us, elapsed time:    1591358 us
+Thread  26 CPU time:  525178 us, elapsed time:    1591341 us
+Thread  27 CPU time:  521334 us, elapsed time:    1591322 us
+Thread  28 CPU time:  525894 us, elapsed time:    1591292 us
+Thread  29 CPU time:  527764 us, elapsed time:    1591269 us
+Thread  30 CPU time:  633801 us, elapsed time:    1591256 us
+Thread  31 CPU time:  635601 us, elapsed time:    1591227 us
+Thread  32 CPU time:  644572 us, elapsed time:    1591209 us
+Thread  33 CPU time:  657301 us, elapsed time:    1591195 us
+Thread  34 CPU time:  635511 us, elapsed time:    1591175 us
+Thread  35 CPU time:  612530 us, elapsed time:    1589148 us
+Thread  36 CPU time:  621275 us, elapsed time:    1589136 us
+Thread  37 CPU time:  624371 us, elapsed time:    1589116 us
+Thread  38 CPU time:  619480 us, elapsed time:    1589096 us
+Thread  39 CPU time:  618170 us, elapsed time:    1589069 us
+Thread  40 CPU time:  621151 us, elapsed time:    1589055 us
+Thread  41 CPU time:  647469 us, elapsed time:    1589026 us
+Thread  42 CPU time:  652817 us, elapsed time:    1589003 us
+Thread  43 CPU time:  662622 us, elapsed time:    1588986 us
+Thread  44 CPU time:  654087 us, elapsed time:    1588966 us
+Thread  45 CPU time:  630851 us, elapsed time:    1588949 us
+Thread  46 CPU time:  644173 us, elapsed time:    1588919 us
+Thread  47 CPU time:  613183 us, elapsed time:    1608371 us
+Thread  48 CPU time:  520018 us, elapsed time:    1568388 us
+Thread  49 CPU time:  524106 us, elapsed time:    1569365 us
+Thread  50 CPU time:  525992 us, elapsed time:    1569339 us
+Thread  51 CPU time:  523323 us, elapsed time:    1569328 us
+Thread  52 CPU time:  520343 us, elapsed time:    1569307 us
+Thread  53 CPU time:  527805 us, elapsed time:    1569264 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14565262 us, elapsed time : 39147452 us
+Process 1: Greedy process, threadcount= 30
+CPU Time : 17721402 us, elapsed time : 47594811 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 31
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.595509 s
+Thread   0 CPU time:  527138 us, elapsed time:    1598554 us
+Thread   1 CPU time:  523402 us, elapsed time:    1598598 us
+Thread   2 CPU time:  524687 us, elapsed time:    1598586 us
+Thread   3 CPU time:  523732 us, elapsed time:    1598557 us
+Thread   4 CPU time:  526641 us, elapsed time:    1598555 us
+Thread   5 CPU time:  534475 us, elapsed time:    1598556 us
+Thread   6 CPU time:  535955 us, elapsed time:    1598591 us
+Thread   7 CPU time:  635474 us, elapsed time:    1598536 us
+Thread   8 CPU time:  640903 us, elapsed time:    1598517 us
+Thread   9 CPU time:  640177 us, elapsed time:    1598517 us
+Thread  10 CPU time:  645936 us, elapsed time:    1598475 us
+Thread  11 CPU time:  616091 us, elapsed time:    1598496 us
+Thread  12 CPU time:  610648 us, elapsed time:    1598491 us
+Thread  13 CPU time:  618172 us, elapsed time:    1598484 us
+Thread  14 CPU time:  619633 us, elapsed time:    1598469 us
+Thread  15 CPU time:  622389 us, elapsed time:    1598468 us
+Thread  16 CPU time:  629099 us, elapsed time:    1598464 us
+Thread  17 CPU time:  648504 us, elapsed time:    1598452 us
+Thread  18 CPU time:  637462 us, elapsed time:    1598442 us
+Thread  19 CPU time:  643294 us, elapsed time:    1598434 us
+Thread  20 CPU time:  641616 us, elapsed time:    1598425 us
+Thread  21 CPU time:  638943 us, elapsed time:    1598417 us
+Thread  22 CPU time:  630336 us, elapsed time:    1598406 us
+Thread  23 CPU time:  609198 us, elapsed time:    1598276 us
+Thread  24 CPU time:  523422 us, elapsed time:    1556774 us
+Thread  25 CPU time:  518444 us, elapsed time:    1556761 us
+Thread  26 CPU time:  523471 us, elapsed time:    1556742 us
+Thread  27 CPU time:  523151 us, elapsed time:    1556721 us
+Thread  28 CPU time:  525494 us, elapsed time:    1556694 us
+Thread  29 CPU time:  531227 us, elapsed time:    1556669 us
+Thread  30 CPU time:  527092 us, elapsed time:    1556654 us
+Thread  31 CPU time:  638930 us, elapsed time:    1556630 us
+Thread  32 CPU time:  637239 us, elapsed time:    1556608 us
+Thread  33 CPU time:  632497 us, elapsed time:    1556595 us
+Thread  34 CPU time:  639982 us, elapsed time:    1556574 us
+Thread  35 CPU time:  607633 us, elapsed time:    1556551 us
+Thread  36 CPU time:  616334 us, elapsed time:    1556537 us
+Thread  37 CPU time:  616503 us, elapsed time:    1556516 us
+Thread  38 CPU time:  629371 us, elapsed time:    1556495 us
+Thread  39 CPU time:  613422 us, elapsed time:    1556469 us
+Thread  40 CPU time:  608988 us, elapsed time:    1557450 us
+Thread  41 CPU time:  625864 us, elapsed time:    1557423 us
+Thread  42 CPU time:  624818 us, elapsed time:    1557400 us
+Thread  43 CPU time:  637910 us, elapsed time:    1557384 us
+Thread  44 CPU time:  630487 us, elapsed time:    1557368 us
+Thread  45 CPU time:  623628 us, elapsed time:    1557348 us
+Thread  46 CPU time:  625640 us, elapsed time:    1557322 us
+Thread  47 CPU time:  606391 us, elapsed time:    1576792 us
+Thread  48 CPU time:  516470 us, elapsed time:    1534788 us
+Thread  49 CPU time:  526289 us, elapsed time:    1534750 us
+Thread  50 CPU time:  521235 us, elapsed time:    1534744 us
+Thread  51 CPU time:  518852 us, elapsed time:    1534728 us
+Thread  52 CPU time:  517129 us, elapsed time:    1534705 us
+Thread  53 CPU time:  527847 us, elapsed time:    1534675 us
+Thread  54 CPU time:  527480 us, elapsed time:    1534663 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14423905 us, elapsed time : 38363766 us
+Process 1: Greedy process, threadcount= 31
+CPU Time : 17943240 us, elapsed time : 48127530 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 32
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 1.632621 s
+Thread   0 CPU time:  525239 us, elapsed time:    1634139 us
+Thread   1 CPU time:  523758 us, elapsed time:    1634466 us
+Thread   2 CPU time:  524980 us, elapsed time:    1634451 us
+Thread   3 CPU time:  524386 us, elapsed time:    1634450 us
+Thread   4 CPU time:  524796 us, elapsed time:    1634452 us
+Thread   5 CPU time:  548564 us, elapsed time:    1634445 us
+Thread   6 CPU time:  542847 us, elapsed time:    1634462 us
+Thread   7 CPU time:  545997 us, elapsed time:    1634422 us
+Thread   8 CPU time:  651999 us, elapsed time:    1634402 us
+Thread   9 CPU time:  641344 us, elapsed time:    1634379 us
+Thread  10 CPU time:  647656 us, elapsed time:    1634377 us
+Thread  11 CPU time:  616171 us, elapsed time:    1634376 us
+Thread  12 CPU time:  613922 us, elapsed time:    1634404 us
+Thread  13 CPU time:  615661 us, elapsed time:    1634391 us
+Thread  14 CPU time:  614538 us, elapsed time:    1634353 us
+Thread  15 CPU time:  616119 us, elapsed time:    1634348 us
+Thread  16 CPU time:  614035 us, elapsed time:    1634342 us
+Thread  17 CPU time:  643877 us, elapsed time:    1634320 us
+Thread  18 CPU time:  658690 us, elapsed time:    1634314 us
+Thread  19 CPU time:  660819 us, elapsed time:    1634304 us
+Thread  20 CPU time:  652189 us, elapsed time:    1634295 us
+Thread  21 CPU time:  665563 us, elapsed time:    1634288 us
+Thread  22 CPU time:  655163 us, elapsed time:    1634275 us
+Thread  23 CPU time:  607262 us, elapsed time:    1634280 us
+Thread  24 CPU time:  524418 us, elapsed time:    1612377 us
+Thread  25 CPU time:  520336 us, elapsed time:    1593368 us
+Thread  26 CPU time:  522538 us, elapsed time:    1593351 us
+Thread  27 CPU time:  524634 us, elapsed time:    1593321 us
+Thread  28 CPU time:  520507 us, elapsed time:    1593305 us
+Thread  29 CPU time:  535447 us, elapsed time:    1593278 us
+Thread  30 CPU time:  538924 us, elapsed time:    1593266 us
+Thread  31 CPU time:  541819 us, elapsed time:    1593235 us
+Thread  32 CPU time:  644170 us, elapsed time:    1593226 us
+Thread  33 CPU time:  650614 us, elapsed time:    1593204 us
+Thread  34 CPU time:  641922 us, elapsed time:    1593183 us
+Thread  35 CPU time:  614562 us, elapsed time:    1593156 us
+Thread  36 CPU time:  620311 us, elapsed time:    1593144 us
+Thread  37 CPU time:  613243 us, elapsed time:    1593108 us
+Thread  38 CPU time:  626938 us, elapsed time:    1593100 us
+Thread  39 CPU time:  627139 us, elapsed time:    1593080 us
+Thread  40 CPU time:  636296 us, elapsed time:    1593064 us
+Thread  41 CPU time:  637625 us, elapsed time:    1593038 us
+Thread  42 CPU time:  641078 us, elapsed time:    1593018 us
+Thread  43 CPU time:  612908 us, elapsed time:    1592995 us
+Thread  44 CPU time:  628455 us, elapsed time:    1592962 us
+Thread  45 CPU time:  627384 us, elapsed time:    1592959 us
+Thread  46 CPU time:  637268 us, elapsed time:    1592926 us
+Thread  47 CPU time:  628520 us, elapsed time:    1592417 us
+Thread  48 CPU time:  517460 us, elapsed time:    1590397 us
+Thread  49 CPU time:  526048 us, elapsed time:    1571366 us
+Thread  50 CPU time:  522459 us, elapsed time:    1571354 us
+Thread  51 CPU time:  522118 us, elapsed time:    1571338 us
+Thread  52 CPU time:  526193 us, elapsed time:    1571317 us
+Thread  53 CPU time:  540071 us, elapsed time:    1571275 us
+Thread  54 CPU time:  545654 us, elapsed time:    1571270 us
+Thread  55 CPU time:  536488 us, elapsed time:    1571252 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14435575 us, elapsed time : 39224735 us
+Process 1: Greedy process, threadcount= 32
+CPU Time : 18553547 us, elapsed time : 50843650 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 33
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.625735 s
+Thread   0 CPU time:  524932 us, elapsed time:    1628859 us
+Thread   1 CPU time:  523916 us, elapsed time:    1629116 us
+Thread   2 CPU time:  524529 us, elapsed time:    1629117 us
+Thread   3 CPU time:  525143 us, elapsed time:    1629119 us
+Thread   4 CPU time:  524579 us, elapsed time:    1629120 us
+Thread   5 CPU time:  545031 us, elapsed time:    1629112 us
+Thread   6 CPU time:  545015 us, elapsed time:    1629117 us
+Thread   7 CPU time:  538310 us, elapsed time:    1629088 us
+Thread   8 CPU time:  545430 us, elapsed time:    1629064 us
+Thread   9 CPU time:  652798 us, elapsed time:    1629065 us
+Thread  10 CPU time:  642020 us, elapsed time:    1629033 us
+Thread  11 CPU time:  613455 us, elapsed time:    1629083 us
+Thread  12 CPU time:  613344 us, elapsed time:    1629106 us
+Thread  13 CPU time:  619395 us, elapsed time:    1629099 us
+Thread  14 CPU time:  619512 us, elapsed time:    1629093 us
+Thread  15 CPU time:  616473 us, elapsed time:    1629085 us
+Thread  16 CPU time:  618762 us, elapsed time:    1629080 us
+Thread  17 CPU time:  655463 us, elapsed time:    1629045 us
+Thread  18 CPU time:  639717 us, elapsed time:    1629041 us
+Thread  19 CPU time:  640459 us, elapsed time:    1629032 us
+Thread  20 CPU time:  649537 us, elapsed time:    1629021 us
+Thread  21 CPU time:  640371 us, elapsed time:    1629011 us
+Thread  22 CPU time:  633832 us, elapsed time:    1629004 us
+Thread  23 CPU time:  613582 us, elapsed time:    1629000 us
+Thread  24 CPU time:  523310 us, elapsed time:    1607731 us
+Thread  25 CPU time:  522302 us, elapsed time:    1587725 us
+Thread  26 CPU time:  520684 us, elapsed time:    1587705 us
+Thread  27 CPU time:  523664 us, elapsed time:    1587676 us
+Thread  28 CPU time:  525711 us, elapsed time:    1587658 us
+Thread  29 CPU time:  527847 us, elapsed time:    1587631 us
+Thread  30 CPU time:  535850 us, elapsed time:    1587620 us
+Thread  31 CPU time:  546562 us, elapsed time:    1587587 us
+Thread  32 CPU time:  527876 us, elapsed time:    1587577 us
+Thread  33 CPU time:  642058 us, elapsed time:    1587556 us
+Thread  34 CPU time:  645495 us, elapsed time:    1587537 us
+Thread  35 CPU time:  626187 us, elapsed time:    1587511 us
+Thread  36 CPU time:  622082 us, elapsed time:    1587497 us
+Thread  37 CPU time:  618480 us, elapsed time:    1587478 us
+Thread  38 CPU time:  619430 us, elapsed time:    1587452 us
+Thread  39 CPU time:  627415 us, elapsed time:    1587432 us
+Thread  40 CPU time:  621158 us, elapsed time:    1587415 us
+Thread  41 CPU time:  622056 us, elapsed time:    1587392 us
+Thread  42 CPU time:  629503 us, elapsed time:    1587368 us
+Thread  43 CPU time:  672591 us, elapsed time:    1587351 us
+Thread  44 CPU time:  666249 us, elapsed time:    1587331 us
+Thread  45 CPU time:  654216 us, elapsed time:    1587307 us
+Thread  46 CPU time:  631617 us, elapsed time:    1587286 us
+Thread  47 CPU time:  626490 us, elapsed time:    1587768 us
+Thread  48 CPU time:  519315 us, elapsed time:    1585748 us
+Thread  49 CPU time:  524724 us, elapsed time:    1565727 us
+Thread  50 CPU time:  527151 us, elapsed time:    1565712 us
+Thread  51 CPU time:  524327 us, elapsed time:    1565691 us
+Thread  52 CPU time:  519132 us, elapsed time:    1565670 us
+Thread  53 CPU time:  552023 us, elapsed time:    1565620 us
+Thread  54 CPU time:  527881 us, elapsed time:    1565623 us
+Thread  55 CPU time:  527866 us, elapsed time:    1565606 us
+Thread  56 CPU time:  527846 us, elapsed time:    1565580 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14265605 us, elapsed time : 39097510 us
+Process 1: Greedy process, threadcount= 33
+CPU Time : 19029098 us, elapsed time : 52231568 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 34
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.670240 s
+Thread   0 CPU time:  511559 us, elapsed time:    1673358 us
+Thread   1 CPU time:  523626 us, elapsed time:    1673718 us
+Thread   2 CPU time:  522057 us, elapsed time:    1673709 us
+Thread   3 CPU time:  527030 us, elapsed time:    1673687 us
+Thread   4 CPU time:  525734 us, elapsed time:    1673685 us
+Thread   5 CPU time:  565887 us, elapsed time:    1673673 us
+Thread   6 CPU time:  561818 us, elapsed time:    1673701 us
+Thread   7 CPU time:  551882 us, elapsed time:    1673653 us
+Thread   8 CPU time:  566132 us, elapsed time:    1673627 us
+Thread   9 CPU time:  553827 us, elapsed time:    1673627 us
+Thread  10 CPU time:  655494 us, elapsed time:    1673613 us
+Thread  11 CPU time:  615483 us, elapsed time:    1673608 us
+Thread  12 CPU time:  619132 us, elapsed time:    1673638 us
+Thread  13 CPU time:  618912 us, elapsed time:    1673626 us
+Thread  14 CPU time:  619234 us, elapsed time:    1673609 us
+Thread  15 CPU time:  617490 us, elapsed time:    1673578 us
+Thread  16 CPU time:  621703 us, elapsed time:    1673577 us
+Thread  17 CPU time:  656331 us, elapsed time:    1673552 us
+Thread  18 CPU time:  661537 us, elapsed time:    1673544 us
+Thread  19 CPU time:  652733 us, elapsed time:    1673532 us
+Thread  20 CPU time:  670696 us, elapsed time:    1673523 us
+Thread  21 CPU time:  643909 us, elapsed time:    1673504 us
+Thread  22 CPU time:  670879 us, elapsed time:    1673496 us
+Thread  23 CPU time:  619854 us, elapsed time:    1673503 us
+Thread  24 CPU time:  525621 us, elapsed time:    1651991 us
+Thread  25 CPU time:  523393 us, elapsed time:    1632008 us
+Thread  26 CPU time:  529517 us, elapsed time:    1631987 us
+Thread  27 CPU time:  527429 us, elapsed time:    1631960 us
+Thread  28 CPU time:  521765 us, elapsed time:    1631947 us
+Thread  29 CPU time:  540606 us, elapsed time:    1631916 us
+Thread  30 CPU time:  548671 us, elapsed time:    1631901 us
+Thread  31 CPU time:  537484 us, elapsed time:    1631872 us
+Thread  32 CPU time:  550305 us, elapsed time:    1631861 us
+Thread  33 CPU time:  554784 us, elapsed time:    1631841 us
+Thread  34 CPU time:  665587 us, elapsed time:    1631815 us
+Thread  35 CPU time:  624597 us, elapsed time:    1631792 us
+Thread  36 CPU time:  618527 us, elapsed time:    1631781 us
+Thread  37 CPU time:  629265 us, elapsed time:    1631761 us
+Thread  38 CPU time:  617097 us, elapsed time:    1631727 us
+Thread  39 CPU time:  615288 us, elapsed time:    1631716 us
+Thread  40 CPU time:  622056 us, elapsed time:    1631700 us
+Thread  41 CPU time:  684398 us, elapsed time:    1631676 us
+Thread  42 CPU time:  685307 us, elapsed time:    1631652 us
+Thread  43 CPU time:  642871 us, elapsed time:    1631635 us
+Thread  44 CPU time:  666039 us, elapsed time:    1631598 us
+Thread  45 CPU time:  652609 us, elapsed time:    1631590 us
+Thread  46 CPU time:  645029 us, elapsed time:    1631570 us
+Thread  47 CPU time:  606327 us, elapsed time:    1632050 us
+Thread  48 CPU time:  521523 us, elapsed time:    1630032 us
+Thread  49 CPU time:  523764 us, elapsed time:    1610010 us
+Thread  50 CPU time:  520464 us, elapsed time:    1609990 us
+Thread  51 CPU time:  517265 us, elapsed time:    1609974 us
+Thread  52 CPU time:  526114 us, elapsed time:    1609953 us
+Thread  53 CPU time:  558944 us, elapsed time:    1609911 us
+Thread  54 CPU time:  548924 us, elapsed time:    1609910 us
+Thread  55 CPU time:  546576 us, elapsed time:    1609887 us
+Thread  56 CPU time:  539948 us, elapsed time:    1609863 us
+Thread  57 CPU time:  544551 us, elapsed time:    1609842 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14352939 us, elapsed time : 40166341 us
+Process 1: Greedy process, threadcount= 34
+CPU Time : 19682645 us, elapsed time : 55302719 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 35
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 1.638344 s
+Thread   0 CPU time:  527215 us, elapsed time:    1641155 us
+Thread   1 CPU time:  523953 us, elapsed time:    1641478 us
+Thread   2 CPU time:  525065 us, elapsed time:    1641462 us
+Thread   3 CPU time:  524228 us, elapsed time:    1641462 us
+Thread   4 CPU time:  524859 us, elapsed time:    1641461 us
+Thread   5 CPU time:  547253 us, elapsed time:    1641456 us
+Thread   6 CPU time:  547496 us, elapsed time:    1641469 us
+Thread   7 CPU time:  550974 us, elapsed time:    1641440 us
+Thread   8 CPU time:  552582 us, elapsed time:    1641421 us
+Thread   9 CPU time:  549897 us, elapsed time:    1641397 us
+Thread  10 CPU time:  548396 us, elapsed time:    1641397 us
+Thread  11 CPU time:  617260 us, elapsed time:    1641381 us
+Thread  12 CPU time:  611730 us, elapsed time:    1641422 us
+Thread  13 CPU time:  614242 us, elapsed time:    1641406 us
+Thread  14 CPU time:  617465 us, elapsed time:    1641379 us
+Thread  15 CPU time:  618674 us, elapsed time:    1641372 us
+Thread  16 CPU time:  615747 us, elapsed time:    1641367 us
+Thread  17 CPU time:  646990 us, elapsed time:    1641341 us
+Thread  18 CPU time:  637599 us, elapsed time:    1641336 us
+Thread  19 CPU time:  651821 us, elapsed time:    1641325 us
+Thread  20 CPU time:  640446 us, elapsed time:    1641316 us
+Thread  21 CPU time:  641196 us, elapsed time:    1641305 us
+Thread  22 CPU time:  646544 us, elapsed time:    1641295 us
+Thread  23 CPU time:  609980 us, elapsed time:    1641299 us
+Thread  24 CPU time:  524441 us, elapsed time:    1620087 us
+Thread  25 CPU time:  519431 us, elapsed time:    1600080 us
+Thread  26 CPU time:  528341 us, elapsed time:    1600058 us
+Thread  27 CPU time:  526943 us, elapsed time:    1600024 us
+Thread  28 CPU time:  529940 us, elapsed time:    1600018 us
+Thread  29 CPU time:  540198 us, elapsed time:    1599988 us
+Thread  30 CPU time:  544297 us, elapsed time:    1599975 us
+Thread  31 CPU time:  538417 us, elapsed time:    1599945 us
+Thread  32 CPU time:  537409 us, elapsed time:    1599934 us
+Thread  33 CPU time:  543766 us, elapsed time:    1599913 us
+Thread  34 CPU time:  540128 us, elapsed time:    1599886 us
+Thread  35 CPU time:  618369 us, elapsed time:    1599864 us
+Thread  36 CPU time:  610391 us, elapsed time:    1599843 us
+Thread  37 CPU time:  619353 us, elapsed time:    1599826 us
+Thread  38 CPU time:  619268 us, elapsed time:    1599800 us
+Thread  39 CPU time:  620474 us, elapsed time:    1599784 us
+Thread  40 CPU time:  613875 us, elapsed time:    1599764 us
+Thread  41 CPU time:  634090 us, elapsed time:    1599728 us
+Thread  42 CPU time:  648080 us, elapsed time:    1599717 us
+Thread  43 CPU time:  623236 us, elapsed time:    1599697 us
+Thread  44 CPU time:  657844 us, elapsed time:    1599678 us
+Thread  45 CPU time:  649706 us, elapsed time:    1599651 us
+Thread  46 CPU time:  659675 us, elapsed time:    1599638 us
+Thread  47 CPU time:  617089 us, elapsed time:    1600121 us
+Thread  48 CPU time:  516419 us, elapsed time:    1598101 us
+Thread  49 CPU time:  527212 us, elapsed time:    1578079 us
+Thread  50 CPU time:  519654 us, elapsed time:    1578064 us
+Thread  51 CPU time:  520752 us, elapsed time:    1578044 us
+Thread  52 CPU time:  512600 us, elapsed time:    1578018 us
+Thread  53 CPU time:  546071 us, elapsed time:    1577982 us
+Thread  54 CPU time:  540755 us, elapsed time:    1577978 us
+Thread  55 CPU time:  540672 us, elapsed time:    1577958 us
+Thread  56 CPU time:  547714 us, elapsed time:    1577931 us
+Thread  57 CPU time:  542096 us, elapsed time:    1577917 us
+Thread  58 CPU time:  539911 us, elapsed time:    1577895 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14091612 us, elapsed time : 39393142 us
+Process 1: Greedy process, threadcount= 35
+CPU Time : 19918617 us, elapsed time : 55794986 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 36
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.650266 s
+Thread   0 CPU time:  523842 us, elapsed time:    1653134 us
+Thread   1 CPU time:  524953 us, elapsed time:    1653484 us
+Thread   2 CPU time:  527264 us, elapsed time:    1653475 us
+Thread   3 CPU time:  527091 us, elapsed time:    1653474 us
+Thread   4 CPU time:  526644 us, elapsed time:    1653460 us
+Thread   5 CPU time:  555747 us, elapsed time:    1653455 us
+Thread   6 CPU time:  552037 us, elapsed time:    1653479 us
+Thread   7 CPU time:  549009 us, elapsed time:    1653433 us
+Thread   8 CPU time:  554430 us, elapsed time:    1653405 us
+Thread   9 CPU time:  550208 us, elapsed time:    1653403 us
+Thread  10 CPU time:  554655 us, elapsed time:    1653380 us
+Thread  11 CPU time:  525897 us, elapsed time:    1653379 us
+Thread  12 CPU time:  618521 us, elapsed time:    1653414 us
+Thread  13 CPU time:  619217 us, elapsed time:    1653402 us
+Thread  14 CPU time:  616596 us, elapsed time:    1653381 us
+Thread  15 CPU time:  626121 us, elapsed time:    1653374 us
+Thread  16 CPU time:  622554 us, elapsed time:    1653366 us
+Thread  17 CPU time:  664702 us, elapsed time:    1653344 us
+Thread  18 CPU time:  669580 us, elapsed time:    1653336 us
+Thread  19 CPU time:  675843 us, elapsed time:    1653324 us
+Thread  20 CPU time:  644560 us, elapsed time:    1653314 us
+Thread  21 CPU time:  633072 us, elapsed time:    1653303 us
+Thread  22 CPU time:  679294 us, elapsed time:    1653295 us
+Thread  23 CPU time:  617069 us, elapsed time:    1653273 us
+Thread  24 CPU time:  523060 us, elapsed time:    1631249 us
+Thread  25 CPU time:  524545 us, elapsed time:    1612242 us
+Thread  26 CPU time:  526084 us, elapsed time:    1612228 us
+Thread  27 CPU time:  526039 us, elapsed time:    1612199 us
+Thread  28 CPU time:  522075 us, elapsed time:    1612187 us
+Thread  29 CPU time:  539022 us, elapsed time:    1612154 us
+Thread  30 CPU time:  541514 us, elapsed time:    1612133 us
+Thread  31 CPU time:  545047 us, elapsed time:    1612116 us
+Thread  32 CPU time:  542389 us, elapsed time:    1612101 us
+Thread  33 CPU time:  547586 us, elapsed time:    1612080 us
+Thread  34 CPU time:  549802 us, elapsed time:    1612055 us
+Thread  35 CPU time:  519357 us, elapsed time:    1612033 us
+Thread  36 CPU time:  622808 us, elapsed time:    1612011 us
+Thread  37 CPU time:  622112 us, elapsed time:    1611996 us
+Thread  38 CPU time:  614304 us, elapsed time:    1611969 us
+Thread  39 CPU time:  624973 us, elapsed time:    1611955 us
+Thread  40 CPU time:  611807 us, elapsed time:    1611934 us
+Thread  41 CPU time:  631851 us, elapsed time:    1611892 us
+Thread  42 CPU time:  651352 us, elapsed time:    1611886 us
+Thread  43 CPU time:  642569 us, elapsed time:    1611869 us
+Thread  44 CPU time:  640985 us, elapsed time:    1611848 us
+Thread  45 CPU time:  664072 us, elapsed time:    1611823 us
+Thread  46 CPU time:  644273 us, elapsed time:    1611803 us
+Thread  47 CPU time:  614856 us, elapsed time:    1611285 us
+Thread  48 CPU time:  521474 us, elapsed time:    1609271 us
+Thread  49 CPU time:  524225 us, elapsed time:    1590242 us
+Thread  50 CPU time:  521490 us, elapsed time:    1590235 us
+Thread  51 CPU time:  524125 us, elapsed time:    1590214 us
+Thread  52 CPU time:  523515 us, elapsed time:    1590188 us
+Thread  53 CPU time:  546507 us, elapsed time:    1590152 us
+Thread  54 CPU time:  545607 us, elapsed time:    1590151 us
+Thread  55 CPU time:  547801 us, elapsed time:    1590129 us
+Thread  56 CPU time:  540418 us, elapsed time:    1590093 us
+Thread  57 CPU time:  540748 us, elapsed time:    1590083 us
+Thread  58 CPU time:  541629 us, elapsed time:    1590067 us
+Thread  59 CPU time:  525436 us, elapsed time:    1590046 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14158906 us, elapsed time : 39681087 us
+Process 1: Greedy process, threadcount= 36
+CPU Time : 20395457 us, elapsed time : 57807919 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 37
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.793050 s
+Thread   0 CPU time:  600956 us, elapsed time:    1796086 us
+Thread   1 CPU time:  522964 us, elapsed time:    1796432 us
+Thread   2 CPU time:  526576 us, elapsed time:    1796408 us
+Thread   3 CPU time:  524547 us, elapsed time:    1796418 us
+Thread   4 CPU time:  528200 us, elapsed time:    1796404 us
+Thread   5 CPU time:  546559 us, elapsed time:    1796412 us
+Thread   6 CPU time:  548900 us, elapsed time:    1796427 us
+Thread   7 CPU time:  548973 us, elapsed time:    1796384 us
+Thread   8 CPU time:  548082 us, elapsed time:    1796364 us
+Thread   9 CPU time:  547625 us, elapsed time:    1796350 us
+Thread  10 CPU time:  539969 us, elapsed time:    1796327 us
+Thread  11 CPU time:  526812 us, elapsed time:    1796339 us
+Thread  12 CPU time:  599358 us, elapsed time:    1796370 us
+Thread  13 CPU time:  628829 us, elapsed time:    1796350 us
+Thread  14 CPU time:  620833 us, elapsed time:    1796339 us
+Thread  15 CPU time:  628978 us, elapsed time:    1796329 us
+Thread  16 CPU time:  628816 us, elapsed time:    1796309 us
+Thread  17 CPU time:  652249 us, elapsed time:    1796285 us
+Thread  18 CPU time:  650766 us, elapsed time:    1796280 us
+Thread  19 CPU time:  644606 us, elapsed time:    1796271 us
+Thread  20 CPU time:  663810 us, elapsed time:    1796226 us
+Thread  21 CPU time:  667880 us, elapsed time:    1796248 us
+Thread  22 CPU time:  634433 us, elapsed time:    1796240 us
+Thread  23 CPU time:  624056 us, elapsed time:    1796244 us
+Thread  24 CPU time:  593828 us, elapsed time:    1774814 us
+Thread  25 CPU time:  524097 us, elapsed time:    1754808 us
+Thread  26 CPU time:  524573 us, elapsed time:    1754787 us
+Thread  27 CPU time:  527755 us, elapsed time:    1754758 us
+Thread  28 CPU time:  524207 us, elapsed time:    1754745 us
+Thread  29 CPU time:  550267 us, elapsed time:    1754714 us
+Thread  30 CPU time:  538562 us, elapsed time:    1754694 us
+Thread  31 CPU time:  545584 us, elapsed time:    1754676 us
+Thread  32 CPU time:  543807 us, elapsed time:    1754660 us
+Thread  33 CPU time:  538426 us, elapsed time:    1754640 us
+Thread  34 CPU time:  556034 us, elapsed time:    1754613 us
+Thread  35 CPU time:  519084 us, elapsed time:    1754599 us
+Thread  36 CPU time:  597159 us, elapsed time:    1754581 us
+Thread  37 CPU time:  620136 us, elapsed time:    1754554 us
+Thread  38 CPU time:  629994 us, elapsed time:    1754536 us
+Thread  39 CPU time:  616212 us, elapsed time:    1754519 us
+Thread  40 CPU time:  615099 us, elapsed time:    1754499 us
+Thread  41 CPU time:  636155 us, elapsed time:    1754469 us
+Thread  42 CPU time:  641312 us, elapsed time:    1754456 us
+Thread  43 CPU time:  641540 us, elapsed time:    1754433 us
+Thread  44 CPU time:  626099 us, elapsed time:    1754414 us
+Thread  45 CPU time:  651707 us, elapsed time:    1754387 us
+Thread  46 CPU time:  625379 us, elapsed time:    1754373 us
+Thread  47 CPU time:  614096 us, elapsed time:    1754850 us
+Thread  48 CPU time:  593796 us, elapsed time:    1752817 us
+Thread  49 CPU time:  529038 us, elapsed time:    1732804 us
+Thread  50 CPU time:  523031 us, elapsed time:    1732788 us
+Thread  51 CPU time:  521991 us, elapsed time:    1732768 us
+Thread  52 CPU time:  524910 us, elapsed time:    1732742 us
+Thread  53 CPU time:  541813 us, elapsed time:    1732713 us
+Thread  54 CPU time:  543566 us, elapsed time:    1732702 us
+Thread  55 CPU time:  544422 us, elapsed time:    1732683 us
+Thread  56 CPU time:  547412 us, elapsed time:    1732650 us
+Thread  57 CPU time:  551078 us, elapsed time:    1732641 us
+Thread  58 CPU time:  535478 us, elapsed time:    1732619 us
+Thread  59 CPU time:  524283 us, elapsed time:    1732596 us
+Thread  60 CPU time:  593998 us, elapsed time:    1732581 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14154777 us, elapsed time : 43111842 us
+Process 1: Greedy process, threadcount= 37
+CPU Time : 21075928 us, elapsed time : 64675683 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 38
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.798870 s
+Thread   0 CPU time:  597490 us, elapsed time:    1802076 us
+Thread   1 CPU time:  595648 us, elapsed time:    1802068 us
+Thread   2 CPU time:  525963 us, elapsed time:    1802045 us
+Thread   3 CPU time:  525036 us, elapsed time:    1802045 us
+Thread   4 CPU time:  525212 us, elapsed time:    1802026 us
+Thread   5 CPU time:  553452 us, elapsed time:    1802041 us
+Thread   6 CPU time:  554427 us, elapsed time:    1802055 us
+Thread   7 CPU time:  551866 us, elapsed time:    1802005 us
+Thread   8 CPU time:  551349 us, elapsed time:    1801975 us
+Thread   9 CPU time:  555106 us, elapsed time:    1801977 us
+Thread  10 CPU time:  550983 us, elapsed time:    1801963 us
+Thread  11 CPU time:  528623 us, elapsed time:    1802000 us
+Thread  12 CPU time:  605677 us, elapsed time:    1801995 us
+Thread  13 CPU time:  603714 us, elapsed time:    1801982 us
+Thread  14 CPU time:  618554 us, elapsed time:    1801977 us
+Thread  15 CPU time:  620111 us, elapsed time:    1801970 us
+Thread  16 CPU time:  620044 us, elapsed time:    1801963 us
+Thread  17 CPU time:  662997 us, elapsed time:    1801936 us
+Thread  18 CPU time:  650437 us, elapsed time:    1801919 us
+Thread  19 CPU time:  659158 us, elapsed time:    1801873 us
+Thread  20 CPU time:  658707 us, elapsed time:    1801900 us
+Thread  21 CPU time:  637192 us, elapsed time:    1801891 us
+Thread  22 CPU time:  643867 us, elapsed time:    1801882 us
+Thread  23 CPU time:  608966 us, elapsed time:    1801724 us
+Thread  24 CPU time:  599205 us, elapsed time:    1760292 us
+Thread  25 CPU time:  597953 us, elapsed time:    1760277 us
+Thread  26 CPU time:  525530 us, elapsed time:    1760247 us
+Thread  27 CPU time:  521856 us, elapsed time:    1760232 us
+Thread  28 CPU time:  519973 us, elapsed time:    1760216 us
+Thread  29 CPU time:  539356 us, elapsed time:    1760190 us
+Thread  30 CPU time:  538747 us, elapsed time:    1760167 us
+Thread  31 CPU time:  544638 us, elapsed time:    1760148 us
+Thread  32 CPU time:  546133 us, elapsed time:    1760131 us
+Thread  33 CPU time:  535372 us, elapsed time:    1760111 us
+Thread  34 CPU time:  541013 us, elapsed time:    1760085 us
+Thread  35 CPU time:  523083 us, elapsed time:    1760072 us
+Thread  36 CPU time:  593877 us, elapsed time:    1760052 us
+Thread  37 CPU time:  593873 us, elapsed time:    1760026 us
+Thread  38 CPU time:  614439 us, elapsed time:    1760006 us
+Thread  39 CPU time:  618586 us, elapsed time:    1759990 us
+Thread  40 CPU time:  617287 us, elapsed time:    1759969 us
+Thread  41 CPU time:  625229 us, elapsed time:    1759939 us
+Thread  42 CPU time:  622375 us, elapsed time:    1759917 us
+Thread  43 CPU time:  637237 us, elapsed time:    1760895 us
+Thread  44 CPU time:  650619 us, elapsed time:    1760883 us
+Thread  45 CPU time:  630154 us, elapsed time:    1760851 us
+Thread  46 CPU time:  619733 us, elapsed time:    1760844 us
+Thread  47 CPU time:  609269 us, elapsed time:    1780314 us
+Thread  48 CPU time:  597793 us, elapsed time:    1738294 us
+Thread  49 CPU time:  595913 us, elapsed time:    1738273 us
+Thread  50 CPU time:  517895 us, elapsed time:    1738263 us
+Thread  51 CPU time:  525119 us, elapsed time:    1738242 us
+Thread  52 CPU time:  523949 us, elapsed time:    1738217 us
+Thread  53 CPU time:  537093 us, elapsed time:    1738192 us
+Thread  54 CPU time:  540663 us, elapsed time:    1738179 us
+Thread  55 CPU time:  535104 us, elapsed time:    1738155 us
+Thread  56 CPU time:  536305 us, elapsed time:    1738132 us
+Thread  57 CPU time:  535068 us, elapsed time:    1738115 us
+Thread  58 CPU time:  537717 us, elapsed time:    1738094 us
+Thread  59 CPU time:  518381 us, elapsed time:    1738070 us
+Thread  60 CPU time:  593871 us, elapsed time:    1738050 us
+Thread  61 CPU time:  598636 us, elapsed time:    1738036 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14204579 us, elapsed time : 43247288 us
+Process 1: Greedy process, threadcount= 38
+CPU Time : 21659044 us, elapsed time : 66600166 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 39
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 1.854578 s
+Thread   0 CPU time:  604855 us, elapsed time:    1856302 us
+Thread   1 CPU time:  600266 us, elapsed time:    1856424 us
+Thread   2 CPU time:  601389 us, elapsed time:    1856415 us
+Thread   3 CPU time:  527178 us, elapsed time:    1856395 us
+Thread   4 CPU time:  527417 us, elapsed time:    1856394 us
+Thread   5 CPU time:  548460 us, elapsed time:    1856401 us
+Thread   6 CPU time:  551166 us, elapsed time:    1856420 us
+Thread   7 CPU time:  544983 us, elapsed time:    1856366 us
+Thread   8 CPU time:  548579 us, elapsed time:    1856339 us
+Thread   9 CPU time:  553544 us, elapsed time:    1856340 us
+Thread  10 CPU time:  543248 us, elapsed time:    1856311 us
+Thread  11 CPU time:  524591 us, elapsed time:    1856319 us
+Thread  12 CPU time:  612586 us, elapsed time:    1856358 us
+Thread  13 CPU time:  612917 us, elapsed time:    1853119 us
+Thread  14 CPU time:  613739 us, elapsed time:    1853112 us
+Thread  15 CPU time:  629861 us, elapsed time:    1853101 us
+Thread  16 CPU time:  623252 us, elapsed time:    1853095 us
+Thread  17 CPU time:  654080 us, elapsed time:    1853068 us
+Thread  18 CPU time:  651863 us, elapsed time:    1853067 us
+Thread  19 CPU time:  650169 us, elapsed time:    1853054 us
+Thread  20 CPU time:  659486 us, elapsed time:    1853046 us
+Thread  21 CPU time:  667473 us, elapsed time:    1853030 us
+Thread  22 CPU time:  651102 us, elapsed time:    1853021 us
+Thread  23 CPU time:  620077 us, elapsed time:    1852857 us
+Thread  24 CPU time:  608644 us, elapsed time:    1814358 us
+Thread  25 CPU time:  604617 us, elapsed time:    1815333 us
+Thread  26 CPU time:  606969 us, elapsed time:    1815309 us
+Thread  27 CPU time:  525925 us, elapsed time:    1815292 us
+Thread  28 CPU time:  529017 us, elapsed time:    1815277 us
+Thread  29 CPU time:  539471 us, elapsed time:    1815247 us
+Thread  30 CPU time:  548245 us, elapsed time:    1815225 us
+Thread  31 CPU time:  546452 us, elapsed time:    1815214 us
+Thread  32 CPU time:  552858 us, elapsed time:    1815191 us
+Thread  33 CPU time:  539264 us, elapsed time:    1815168 us
+Thread  34 CPU time:  545494 us, elapsed time:    1815147 us
+Thread  35 CPU time:  529434 us, elapsed time:    1815132 us
+Thread  36 CPU time:  600833 us, elapsed time:    1815112 us
+Thread  37 CPU time:  607509 us, elapsed time:    1812078 us
+Thread  38 CPU time:  609442 us, elapsed time:    1812073 us
+Thread  39 CPU time:  613225 us, elapsed time:    1812052 us
+Thread  40 CPU time:  619220 us, elapsed time:    1812032 us
+Thread  41 CPU time:  637391 us, elapsed time:    1811989 us
+Thread  42 CPU time:  641544 us, elapsed time:    1811987 us
+Thread  43 CPU time:  649911 us, elapsed time:    1811966 us
+Thread  44 CPU time:  625752 us, elapsed time:    1811940 us
+Thread  45 CPU time:  654849 us, elapsed time:    1811920 us
+Thread  46 CPU time:  632033 us, elapsed time:    1811902 us
+Thread  47 CPU time:  612923 us, elapsed time:    1831377 us
+Thread  48 CPU time:  615000 us, elapsed time:    1792361 us
+Thread  49 CPU time:  612126 us, elapsed time:    1793342 us
+Thread  50 CPU time:  598463 us, elapsed time:    1793326 us
+Thread  51 CPU time:  526781 us, elapsed time:    1793305 us
+Thread  52 CPU time:  522890 us, elapsed time:    1793275 us
+Thread  53 CPU time:  551778 us, elapsed time:    1793250 us
+Thread  54 CPU time:  535598 us, elapsed time:    1793241 us
+Thread  55 CPU time:  544078 us, elapsed time:    1793207 us
+Thread  56 CPU time:  540160 us, elapsed time:    1793194 us
+Thread  57 CPU time:  543153 us, elapsed time:    1793177 us
+Thread  58 CPU time:  544073 us, elapsed time:    1793157 us
+Thread  59 CPU time:  519536 us, elapsed time:    1793133 us
+Thread  60 CPU time:  612033 us, elapsed time:    1793118 us
+Thread  61 CPU time:  601320 us, elapsed time:    1790088 us
+Thread  62 CPU time:  596745 us, elapsed time:    1790071 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14322281 us, elapsed time : 44516354 us
+Process 1: Greedy process, threadcount= 39
+CPU Time : 22644756 us, elapsed time : 70439566 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 40
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.821554 s
+Thread   0 CPU time:  600589 us, elapsed time:    1824135 us
+Thread   1 CPU time:  605519 us, elapsed time:    1824508 us
+Thread   2 CPU time:  607617 us, elapsed time:    1824497 us
+Thread   3 CPU time:  606208 us, elapsed time:    1824476 us
+Thread   4 CPU time:  523225 us, elapsed time:    1824476 us
+Thread   5 CPU time:  550897 us, elapsed time:    1824479 us
+Thread   6 CPU time:  546705 us, elapsed time:    1824494 us
+Thread   7 CPU time:  545097 us, elapsed time:    1824445 us
+Thread   8 CPU time:  543427 us, elapsed time:    1824445 us
+Thread   9 CPU time:  551615 us, elapsed time:    1824429 us
+Thread  10 CPU time:  548682 us, elapsed time:    1824405 us
+Thread  11 CPU time:  527179 us, elapsed time:    1824414 us
+Thread  12 CPU time:  610399 us, elapsed time:    1824444 us
+Thread  13 CPU time:  610276 us, elapsed time:    1824423 us
+Thread  14 CPU time:  604839 us, elapsed time:    1824412 us
+Thread  15 CPU time:  607588 us, elapsed time:    1824391 us
+Thread  16 CPU time:  629198 us, elapsed time:    1824381 us
+Thread  17 CPU time:  647190 us, elapsed time:    1824359 us
+Thread  18 CPU time:  645412 us, elapsed time:    1824354 us
+Thread  19 CPU time:  652819 us, elapsed time:    1824343 us
+Thread  20 CPU time:  661264 us, elapsed time:    1824331 us
+Thread  21 CPU time:  643574 us, elapsed time:    1824319 us
+Thread  22 CPU time:  654655 us, elapsed time:    1824308 us
+Thread  23 CPU time:  620483 us, elapsed time:    1824313 us
+Thread  24 CPU time:  603712 us, elapsed time:    1802259 us
+Thread  25 CPU time:  593847 us, elapsed time:    1783241 us
+Thread  26 CPU time:  601263 us, elapsed time:    1783211 us
+Thread  27 CPU time:  593851 us, elapsed time:    1783193 us
+Thread  28 CPU time:  527655 us, elapsed time:    1783179 us
+Thread  29 CPU time:  539219 us, elapsed time:    1783146 us
+Thread  30 CPU time:  542264 us, elapsed time:    1783118 us
+Thread  31 CPU time:  540176 us, elapsed time:    1783113 us
+Thread  32 CPU time:  543018 us, elapsed time:    1783093 us
+Thread  33 CPU time:  536799 us, elapsed time:    1783066 us
+Thread  34 CPU time:  540595 us, elapsed time:    1783046 us
+Thread  35 CPU time:  527222 us, elapsed time:    1783030 us
+Thread  36 CPU time:  593895 us, elapsed time:    1783018 us
+Thread  37 CPU time:  603343 us, elapsed time:    1782987 us
+Thread  38 CPU time:  605927 us, elapsed time:    1782974 us
+Thread  39 CPU time:  593884 us, elapsed time:    1782957 us
+Thread  40 CPU time:  614913 us, elapsed time:    1782938 us
+Thread  41 CPU time:  625212 us, elapsed time:    1782899 us
+Thread  42 CPU time:  620921 us, elapsed time:    1782894 us
+Thread  43 CPU time:  635539 us, elapsed time:    1782871 us
+Thread  44 CPU time:  649166 us, elapsed time:    1782845 us
+Thread  45 CPU time:  631120 us, elapsed time:    1782828 us
+Thread  46 CPU time:  624527 us, elapsed time:    1782812 us
+Thread  47 CPU time:  613741 us, elapsed time:    1783281 us
+Thread  48 CPU time:  593800 us, elapsed time:    1780263 us
+Thread  49 CPU time:  601894 us, elapsed time:    1761228 us
+Thread  50 CPU time:  593861 us, elapsed time:    1761232 us
+Thread  51 CPU time:  605905 us, elapsed time:    1761212 us
+Thread  52 CPU time:  522154 us, elapsed time:    1761186 us
+Thread  53 CPU time:  540504 us, elapsed time:    1761159 us
+Thread  54 CPU time:  538578 us, elapsed time:    1761148 us
+Thread  55 CPU time:  548021 us, elapsed time:    1761107 us
+Thread  56 CPU time:  539867 us, elapsed time:    1761101 us
+Thread  57 CPU time:  537121 us, elapsed time:    1761084 us
+Thread  58 CPU time:  540173 us, elapsed time:    1761065 us
+Thread  59 CPU time:  518863 us, elapsed time:    1761038 us
+Thread  60 CPU time:  593844 us, elapsed time:    1761020 us
+Thread  61 CPU time:  593873 us, elapsed time:    1761005 us
+Thread  62 CPU time:  593877 us, elapsed time:    1760985 us
+Thread  63 CPU time:  598591 us, elapsed time:    1760961 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14344457 us, elapsed time : 43785581 us
+Process 1: Greedy process, threadcount= 40
+CPU Time : 23162735 us, elapsed time : 71008793 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 41
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.870595 s
+Thread   0 CPU time:  615355 us, elapsed time:    1873899 us
+Thread   1 CPU time:  606183 us, elapsed time:    1874011 us
+Thread   2 CPU time:  615658 us, elapsed time:    1873998 us
+Thread   3 CPU time:  613295 us, elapsed time:    1873998 us
+Thread   4 CPU time:  617957 us, elapsed time:    1873979 us
+Thread   5 CPU time:  548571 us, elapsed time:    1873990 us
+Thread   6 CPU time:  545028 us, elapsed time:    1874005 us
+Thread   7 CPU time:  544217 us, elapsed time:    1873959 us
+Thread   8 CPU time:  549476 us, elapsed time:    1873939 us
+Thread   9 CPU time:  548687 us, elapsed time:    1873918 us
+Thread  10 CPU time:  541693 us, elapsed time:    1873920 us
+Thread  11 CPU time:  528617 us, elapsed time:    1873925 us
+Thread  12 CPU time:  619138 us, elapsed time:    1873953 us
+Thread  13 CPU time:  618552 us, elapsed time:    1870925 us
+Thread  14 CPU time:  617041 us, elapsed time:    1870903 us
+Thread  15 CPU time:  622242 us, elapsed time:    1870899 us
+Thread  16 CPU time:  611225 us, elapsed time:    1870891 us
+Thread  17 CPU time:  646961 us, elapsed time:    1870866 us
+Thread  18 CPU time:  662082 us, elapsed time:    1870861 us
+Thread  19 CPU time:  659122 us, elapsed time:    1870849 us
+Thread  20 CPU time:  660021 us, elapsed time:    1870841 us
+Thread  21 CPU time:  649118 us, elapsed time:    1870832 us
+Thread  22 CPU time:  663092 us, elapsed time:    1870822 us
+Thread  23 CPU time:  615662 us, elapsed time:    1870826 us
+Thread  24 CPU time:  615876 us, elapsed time:    1831951 us
+Thread  25 CPU time:  609787 us, elapsed time:    1832921 us
+Thread  26 CPU time:  607007 us, elapsed time:    1832902 us
+Thread  27 CPU time:  618220 us, elapsed time:    1832890 us
+Thread  28 CPU time:  610417 us, elapsed time:    1832870 us
+Thread  29 CPU time:  540944 us, elapsed time:    1832827 us
+Thread  30 CPU time:  546830 us, elapsed time:    1832822 us
+Thread  31 CPU time:  543959 us, elapsed time:    1832805 us
+Thread  32 CPU time:  552129 us, elapsed time:    1832786 us
+Thread  33 CPU time:  532437 us, elapsed time:    1832760 us
+Thread  34 CPU time:  553183 us, elapsed time:    1832743 us
+Thread  35 CPU time:  524351 us, elapsed time:    1832723 us
+Thread  36 CPU time:  610873 us, elapsed time:    1832705 us
+Thread  37 CPU time:  610148 us, elapsed time:    1829673 us
+Thread  38 CPU time:  621942 us, elapsed time:    1829665 us
+Thread  39 CPU time:  610941 us, elapsed time:    1829646 us
+Thread  40 CPU time:  615900 us, elapsed time:    1829619 us
+Thread  41 CPU time:  645793 us, elapsed time:    1829583 us
+Thread  42 CPU time:  636772 us, elapsed time:    1829581 us
+Thread  43 CPU time:  643123 us, elapsed time:    1829561 us
+Thread  44 CPU time:  631145 us, elapsed time:    1829534 us
+Thread  45 CPU time:  652174 us, elapsed time:    1829518 us
+Thread  46 CPU time:  643907 us, elapsed time:    1829498 us
+Thread  47 CPU time:  613317 us, elapsed time:    1828977 us
+Thread  48 CPU time:  615819 us, elapsed time:    1809954 us
+Thread  49 CPU time:  616748 us, elapsed time:    1810929 us
+Thread  50 CPU time:  608843 us, elapsed time:    1810913 us
+Thread  51 CPU time:  611833 us, elapsed time:    1810884 us
+Thread  52 CPU time:  612122 us, elapsed time:    1810867 us
+Thread  53 CPU time:  552044 us, elapsed time:    1810837 us
+Thread  54 CPU time:  538777 us, elapsed time:    1810826 us
+Thread  55 CPU time:  538365 us, elapsed time:    1810795 us
+Thread  56 CPU time:  534083 us, elapsed time:    1810786 us
+Thread  57 CPU time:  543872 us, elapsed time:    1810765 us
+Thread  58 CPU time:  538011 us, elapsed time:    1810744 us
+Thread  59 CPU time:  528978 us, elapsed time:    1810718 us
+Thread  60 CPU time:  613329 us, elapsed time:    1810710 us
+Thread  61 CPU time:  614204 us, elapsed time:    1807688 us
+Thread  62 CPU time:  609311 us, elapsed time:    1807666 us
+Thread  63 CPU time:  600697 us, elapsed time:    1807647 us
+Thread  64 CPU time:  613137 us, elapsed time:    1807630 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14518993 us, elapsed time : 44941009 us
+Process 1: Greedy process, threadcount= 41
+CPU Time : 24281348 us, elapsed time : 74720919 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 42
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.864333 s
+Thread   0 CPU time:  611085 us, elapsed time:    1867875 us
+Thread   1 CPU time:  613951 us, elapsed time:    1868076 us
+Thread   2 CPU time:  615341 us, elapsed time:    1868059 us
+Thread   3 CPU time:  612593 us, elapsed time:    1868058 us
+Thread   4 CPU time:  614824 us, elapsed time:    1868056 us
+Thread   5 CPU time:  625828 us, elapsed time:    1868046 us
+Thread   6 CPU time:  554475 us, elapsed time:    1868070 us
+Thread   7 CPU time:  554415 us, elapsed time:    1868022 us
+Thread   8 CPU time:  555047 us, elapsed time:    1868022 us
+Thread   9 CPU time:  555259 us, elapsed time:    1867997 us
+Thread  10 CPU time:  547037 us, elapsed time:    1867979 us
+Thread  11 CPU time:  526437 us, elapsed time:    1867992 us
+Thread  12 CPU time:  613318 us, elapsed time:    1868010 us
+Thread  13 CPU time:  615841 us, elapsed time:    1867997 us
+Thread  14 CPU time:  609624 us, elapsed time:    1867988 us
+Thread  15 CPU time:  615998 us, elapsed time:    1867963 us
+Thread  16 CPU time:  617221 us, elapsed time:    1867958 us
+Thread  17 CPU time:  635007 us, elapsed time:    1867937 us
+Thread  18 CPU time:  653446 us, elapsed time:    1867930 us
+Thread  19 CPU time:  650764 us, elapsed time:    1867917 us
+Thread  20 CPU time:  661158 us, elapsed time:    1867902 us
+Thread  21 CPU time:  655147 us, elapsed time:    1867893 us
+Thread  22 CPU time:  656798 us, elapsed time:    1867886 us
+Thread  23 CPU time:  618852 us, elapsed time:    1867856 us
+Thread  24 CPU time:  611475 us, elapsed time:    1846647 us
+Thread  25 CPU time:  615586 us, elapsed time:    1826634 us
+Thread  26 CPU time:  606971 us, elapsed time:    1826603 us
+Thread  27 CPU time:  608159 us, elapsed time:    1826594 us
+Thread  28 CPU time:  613762 us, elapsed time:    1826573 us
+Thread  29 CPU time:  615782 us, elapsed time:    1826529 us
+Thread  30 CPU time:  551527 us, elapsed time:    1826524 us
+Thread  31 CPU time:  544659 us, elapsed time:    1826508 us
+Thread  32 CPU time:  551216 us, elapsed time:    1826486 us
+Thread  33 CPU time:  535967 us, elapsed time:    1826462 us
+Thread  34 CPU time:  554864 us, elapsed time:    1826432 us
+Thread  35 CPU time:  528856 us, elapsed time:    1826427 us
+Thread  36 CPU time:  619548 us, elapsed time:    1826407 us
+Thread  37 CPU time:  615302 us, elapsed time:    1826382 us
+Thread  38 CPU time:  617052 us, elapsed time:    1826367 us
+Thread  39 CPU time:  613934 us, elapsed time:    1826346 us
+Thread  40 CPU time:  607801 us, elapsed time:    1826321 us
+Thread  41 CPU time:  615822 us, elapsed time:    1826295 us
+Thread  42 CPU time:  633452 us, elapsed time:    1826281 us
+Thread  43 CPU time:  633856 us, elapsed time:    1826260 us
+Thread  44 CPU time:  662298 us, elapsed time:    1826236 us
+Thread  45 CPU time:  644470 us, elapsed time:    1826217 us
+Thread  46 CPU time:  642674 us, elapsed time:    1826200 us
+Thread  47 CPU time:  613380 us, elapsed time:    1826675 us
+Thread  48 CPU time:  609650 us, elapsed time:    1824652 us
+Thread  49 CPU time:  612376 us, elapsed time:    1804643 us
+Thread  50 CPU time:  613207 us, elapsed time:    1804621 us
+Thread  51 CPU time:  609329 us, elapsed time:    1804592 us
+Thread  52 CPU time:  606745 us, elapsed time:    1804575 us
+Thread  53 CPU time:  621719 us, elapsed time:    1804548 us
+Thread  54 CPU time:  539390 us, elapsed time:    1804536 us
+Thread  55 CPU time:  542988 us, elapsed time:    1804505 us
+Thread  56 CPU time:  550806 us, elapsed time:    1804490 us
+Thread  57 CPU time:  546732 us, elapsed time:    1804472 us
+Thread  58 CPU time:  538006 us, elapsed time:    1804454 us
+Thread  59 CPU time:  517944 us, elapsed time:    1804427 us
+Thread  60 CPU time:  608822 us, elapsed time:    1804413 us
+Thread  61 CPU time:  605723 us, elapsed time:    1804394 us
+Thread  62 CPU time:  607733 us, elapsed time:    1804368 us
+Thread  63 CPU time:  617766 us, elapsed time:    1804347 us
+Thread  64 CPU time:  611447 us, elapsed time:    1804331 us
+Thread  65 CPU time:  608635 us, elapsed time:    1804307 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14589466 us, elapsed time : 44831489 us
+Process 1: Greedy process, threadcount= 42
+CPU Time : 25027431 us, elapsed time : 76355081 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 43
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.874215 s
+Thread   0 CPU time:  609410 us, elapsed time:    1877039 us
+Thread   1 CPU time:  610967 us, elapsed time:    1877412 us
+Thread   2 CPU time:  614642 us, elapsed time:    1877402 us
+Thread   3 CPU time:  617127 us, elapsed time:    1877402 us
+Thread   4 CPU time:  614327 us, elapsed time:    1877381 us
+Thread   5 CPU time:  629714 us, elapsed time:    1877384 us
+Thread   6 CPU time:  624885 us, elapsed time:    1877407 us
+Thread   7 CPU time:  550997 us, elapsed time:    1877355 us
+Thread   8 CPU time:  549740 us, elapsed time:    1877340 us
+Thread   9 CPU time:  549208 us, elapsed time:    1877317 us
+Thread  10 CPU time:  541102 us, elapsed time:    1877317 us
+Thread  11 CPU time:  527412 us, elapsed time:    1877315 us
+Thread  12 CPU time:  616974 us, elapsed time:    1877340 us
+Thread  13 CPU time:  617111 us, elapsed time:    1877326 us
+Thread  14 CPU time:  615290 us, elapsed time:    1877316 us
+Thread  15 CPU time:  616216 us, elapsed time:    1877294 us
+Thread  16 CPU time:  615324 us, elapsed time:    1877285 us
+Thread  17 CPU time:  622221 us, elapsed time:    1877264 us
+Thread  18 CPU time:  621252 us, elapsed time:    1877259 us
+Thread  19 CPU time:  672657 us, elapsed time:    1877247 us
+Thread  20 CPU time:  648478 us, elapsed time:    1877237 us
+Thread  21 CPU time:  655679 us, elapsed time:    1877226 us
+Thread  22 CPU time:  645053 us, elapsed time:    1877102 us
+Thread  23 CPU time:  611855 us, elapsed time:    1877217 us
+Thread  24 CPU time:  614904 us, elapsed time:    1855661 us
+Thread  25 CPU time:  620790 us, elapsed time:    1835644 us
+Thread  26 CPU time:  617226 us, elapsed time:    1835624 us
+Thread  27 CPU time:  615265 us, elapsed time:    1835609 us
+Thread  28 CPU time:  619322 us, elapsed time:    1835587 us
+Thread  29 CPU time:  615741 us, elapsed time:    1835538 us
+Thread  30 CPU time:  620888 us, elapsed time:    1835539 us
+Thread  31 CPU time:  544968 us, elapsed time:    1835521 us
+Thread  32 CPU time:  535431 us, elapsed time:    1835500 us
+Thread  33 CPU time:  540787 us, elapsed time:    1835476 us
+Thread  34 CPU time:  542788 us, elapsed time:    1835460 us
+Thread  35 CPU time:  520031 us, elapsed time:    1835438 us
+Thread  36 CPU time:  624439 us, elapsed time:    1835422 us
+Thread  37 CPU time:  614284 us, elapsed time:    1835402 us
+Thread  38 CPU time:  612675 us, elapsed time:    1835386 us
+Thread  39 CPU time:  619163 us, elapsed time:    1835365 us
+Thread  40 CPU time:  603336 us, elapsed time:    1835341 us
+Thread  41 CPU time:  615817 us, elapsed time:    1835320 us
+Thread  42 CPU time:  627775 us, elapsed time:    1835301 us
+Thread  43 CPU time:  649620 us, elapsed time:    1835278 us
+Thread  44 CPU time:  634947 us, elapsed time:    1835255 us
+Thread  45 CPU time:  650109 us, elapsed time:    1835240 us
+Thread  46 CPU time:  623975 us, elapsed time:    1855214 us
+Thread  47 CPU time:  614261 us, elapsed time:    1835680 us
+Thread  48 CPU time:  610764 us, elapsed time:    1833672 us
+Thread  49 CPU time:  609845 us, elapsed time:    1813662 us
+Thread  50 CPU time:  613069 us, elapsed time:    1813641 us
+Thread  51 CPU time:  605756 us, elapsed time:    1813613 us
+Thread  52 CPU time:  604370 us, elapsed time:    1813599 us
+Thread  53 CPU time:  615734 us, elapsed time:    1813570 us
+Thread  54 CPU time:  615837 us, elapsed time:    1813556 us
+Thread  55 CPU time:  543511 us, elapsed time:    1813525 us
+Thread  56 CPU time:  559853 us, elapsed time:    1813513 us
+Thread  57 CPU time:  544727 us, elapsed time:    1813493 us
+Thread  58 CPU time:  540193 us, elapsed time:    1813469 us
+Thread  59 CPU time:  526959 us, elapsed time:    1813448 us
+Thread  60 CPU time:  601192 us, elapsed time:    1813433 us
+Thread  61 CPU time:  607874 us, elapsed time:    1813413 us
+Thread  62 CPU time:  610869 us, elapsed time:    1813388 us
+Thread  63 CPU time:  611607 us, elapsed time:    1813372 us
+Thread  64 CPU time:  604388 us, elapsed time:    1813351 us
+Thread  65 CPU time:  635332 us, elapsed time:    1813326 us
+Thread  66 CPU time:  611089 us, elapsed time:    1813304 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14597641 us, elapsed time : 45055184 us
+Process 1: Greedy process, threadcount= 43
+CPU Time : 25771511 us, elapsed time : 78567149 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 44
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.878926 s
+Thread   0 CPU time:  614364 us, elapsed time:    1881538 us
+Thread   1 CPU time:  613938 us, elapsed time:    1881918 us
+Thread   2 CPU time:  609938 us, elapsed time:    1881905 us
+Thread   3 CPU time:  613892 us, elapsed time:    1881904 us
+Thread   4 CPU time:  617751 us, elapsed time:    1881905 us
+Thread   5 CPU time:  627221 us, elapsed time:    1881898 us
+Thread   6 CPU time:  619882 us, elapsed time:    1881916 us
+Thread   7 CPU time:  620620 us, elapsed time:    1881877 us
+Thread   8 CPU time:  553331 us, elapsed time:    1881862 us
+Thread   9 CPU time:  550888 us, elapsed time:    1881833 us
+Thread  10 CPU time:  554940 us, elapsed time:    1881834 us
+Thread  11 CPU time:  527764 us, elapsed time:    1881818 us
+Thread  12 CPU time:  613480 us, elapsed time:    1881857 us
+Thread  13 CPU time:  617213 us, elapsed time:    1881842 us
+Thread  14 CPU time:  616435 us, elapsed time:    1881820 us
+Thread  15 CPU time:  613572 us, elapsed time:    1881812 us
+Thread  16 CPU time:  615046 us, elapsed time:    1881801 us
+Thread  17 CPU time:  626567 us, elapsed time:    1881781 us
+Thread  18 CPU time:  641551 us, elapsed time:    1881774 us
+Thread  19 CPU time:  630198 us, elapsed time:    1881748 us
+Thread  20 CPU time:  654775 us, elapsed time:    1881751 us
+Thread  21 CPU time:  649875 us, elapsed time:    1881740 us
+Thread  22 CPU time:  641198 us, elapsed time:    1881722 us
+Thread  23 CPU time:  620350 us, elapsed time:    1881726 us
+Thread  24 CPU time:  612187 us, elapsed time:    1859740 us
+Thread  25 CPU time:  607947 us, elapsed time:    1840715 us
+Thread  26 CPU time:  605748 us, elapsed time:    1840696 us
+Thread  27 CPU time:  609884 us, elapsed time:    1840687 us
+Thread  28 CPU time:  614118 us, elapsed time:    1840667 us
+Thread  29 CPU time:  629213 us, elapsed time:    1840624 us
+Thread  30 CPU time:  636328 us, elapsed time:    1840619 us
+Thread  31 CPU time:  630578 us, elapsed time:    1840603 us
+Thread  32 CPU time:  552272 us, elapsed time:    1840582 us
+Thread  33 CPU time:  540548 us, elapsed time:    1840555 us
+Thread  34 CPU time:  545323 us, elapsed time:    1840541 us
+Thread  35 CPU time:  527475 us, elapsed time:    1840520 us
+Thread  36 CPU time:  614814 us, elapsed time:    1840497 us
+Thread  37 CPU time:  614111 us, elapsed time:    1840478 us
+Thread  38 CPU time:  619662 us, elapsed time:    1840460 us
+Thread  39 CPU time:  619370 us, elapsed time:    1840440 us
+Thread  40 CPU time:  607407 us, elapsed time:    1840414 us
+Thread  41 CPU time:  627070 us, elapsed time:    1840390 us
+Thread  42 CPU time:  623049 us, elapsed time:    1840376 us
+Thread  43 CPU time:  619749 us, elapsed time:    1840354 us
+Thread  44 CPU time:  673159 us, elapsed time:    1840328 us
+Thread  45 CPU time:  643482 us, elapsed time:    1840314 us
+Thread  46 CPU time:  637929 us, elapsed time:    1840294 us
+Thread  47 CPU time:  614020 us, elapsed time:    1839768 us
+Thread  48 CPU time:  610476 us, elapsed time:    1837748 us
+Thread  49 CPU time:  611226 us, elapsed time:    1818732 us
+Thread  50 CPU time:  610169 us, elapsed time:    1818714 us
+Thread  51 CPU time:  614039 us, elapsed time:    1818686 us
+Thread  52 CPU time:  604212 us, elapsed time:    1818666 us
+Thread  53 CPU time:  615749 us, elapsed time:    1818645 us
+Thread  54 CPU time:  615846 us, elapsed time:    1818631 us
+Thread  55 CPU time:  611284 us, elapsed time:    1818600 us
+Thread  56 CPU time:  547825 us, elapsed time:    1818588 us
+Thread  57 CPU time:  557960 us, elapsed time:    1818568 us
+Thread  58 CPU time:  543067 us, elapsed time:    1818541 us
+Thread  59 CPU time:  524353 us, elapsed time:    1818522 us
+Thread  60 CPU time:  613626 us, elapsed time:    1818508 us
+Thread  61 CPU time:  611791 us, elapsed time:    1818488 us
+Thread  62 CPU time:  604504 us, elapsed time:    1818462 us
+Thread  63 CPU time:  611541 us, elapsed time:    1818446 us
+Thread  64 CPU time:  621372 us, elapsed time:    1818427 us
+Thread  65 CPU time:  621011 us, elapsed time:    1818403 us
+Thread  66 CPU time:  605294 us, elapsed time:    1818378 us
+Thread  67 CPU time:  627915 us, elapsed time:    1818359 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14664789 us, elapsed time : 45163582 us
+Process 1: Greedy process, threadcount= 44
+CPU Time : 26608703 us, elapsed time : 80580774 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 45
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 1.905436 s
+Thread   0 CPU time:  612222 us, elapsed time:    1935393 us
+Thread   1 CPU time:  608926 us, elapsed time:    1935644 us
+Thread   2 CPU time:  613586 us, elapsed time:    1935633 us
+Thread   3 CPU time:  614699 us, elapsed time:    1935632 us
+Thread   4 CPU time:  611123 us, elapsed time:    1935632 us
+Thread   5 CPU time:  635067 us, elapsed time:    1935611 us
+Thread   6 CPU time:  631636 us, elapsed time:    1935634 us
+Thread   7 CPU time:  624653 us, elapsed time:    1935591 us
+Thread   8 CPU time:  639731 us, elapsed time:    1935572 us
+Thread   9 CPU time:  556379 us, elapsed time:    1935543 us
+Thread  10 CPU time:  546261 us, elapsed time:    1935542 us
+Thread  11 CPU time:  530920 us, elapsed time:    1935547 us
+Thread  12 CPU time:  620870 us, elapsed time:    1935577 us
+Thread  13 CPU time:  619069 us, elapsed time:    1935551 us
+Thread  14 CPU time:  616979 us, elapsed time:    1935547 us
+Thread  15 CPU time:  615114 us, elapsed time:    1935539 us
+Thread  16 CPU time:  623406 us, elapsed time:    1935527 us
+Thread  17 CPU time:  630951 us, elapsed time:    1935506 us
+Thread  18 CPU time:  637213 us, elapsed time:    1935501 us
+Thread  19 CPU time:  653913 us, elapsed time:    1935480 us
+Thread  20 CPU time:  634703 us, elapsed time:    1935471 us
+Thread  21 CPU time:  648721 us, elapsed time:    1935460 us
+Thread  22 CPU time:  650710 us, elapsed time:    1935450 us
+Thread  23 CPU time:  622718 us, elapsed time:    1935440 us
+Thread  24 CPU time:  616642 us, elapsed time:    1913416 us
+Thread  25 CPU time:  605979 us, elapsed time:    1894389 us
+Thread  26 CPU time:  605719 us, elapsed time:    1894382 us
+Thread  27 CPU time:  609066 us, elapsed time:    1894361 us
+Thread  28 CPU time:  611813 us, elapsed time:    1894340 us
+Thread  29 CPU time:  632879 us, elapsed time:    1894296 us
+Thread  30 CPU time:  627465 us, elapsed time:    1894296 us
+Thread  31 CPU time:  654672 us, elapsed time:    1894276 us
+Thread  32 CPU time:  625666 us, elapsed time:    1894250 us
+Thread  33 CPU time:  529485 us, elapsed time:    1894229 us
+Thread  34 CPU time:  553317 us, elapsed time:    1894213 us
+Thread  35 CPU time:  524012 us, elapsed time:    1894192 us
+Thread  36 CPU time:  613859 us, elapsed time:    1894171 us
+Thread  37 CPU time:  614863 us, elapsed time:    1894155 us
+Thread  38 CPU time:  608711 us, elapsed time:    1894136 us
+Thread  39 CPU time:  609198 us, elapsed time:    1894114 us
+Thread  40 CPU time:  608054 us, elapsed time:    1894079 us
+Thread  41 CPU time:  625331 us, elapsed time:    1894068 us
+Thread  42 CPU time:  625877 us, elapsed time:    1894050 us
+Thread  43 CPU time:  623504 us, elapsed time:    1894024 us
+Thread  44 CPU time:  623907 us, elapsed time:    1894004 us
+Thread  45 CPU time:  631220 us, elapsed time:    1893989 us
+Thread  46 CPU time:  649303 us, elapsed time:    1893969 us
+Thread  47 CPU time:  613351 us, elapsed time:    1893440 us
+Thread  48 CPU time:  618278 us, elapsed time:    1891426 us
+Thread  49 CPU time:  613364 us, elapsed time:    1872405 us
+Thread  50 CPU time:  601830 us, elapsed time:    1872388 us
+Thread  51 CPU time:  616505 us, elapsed time:    1872359 us
+Thread  52 CPU time:  611962 us, elapsed time:    1872346 us
+Thread  53 CPU time:  633142 us, elapsed time:    1872316 us
+Thread  54 CPU time:  620032 us, elapsed time:    1872296 us
+Thread  55 CPU time:  618638 us, elapsed time:    1872278 us
+Thread  56 CPU time:  633212 us, elapsed time:    1872261 us
+Thread  57 CPU time:  544617 us, elapsed time:    1872242 us
+Thread  58 CPU time:  549652 us, elapsed time:    1872217 us
+Thread  59 CPU time:  516593 us, elapsed time:    1872201 us
+Thread  60 CPU time:  607450 us, elapsed time:    1872181 us
+Thread  61 CPU time:  605718 us, elapsed time:    1872161 us
+Thread  62 CPU time:  616947 us, elapsed time:    1872112 us
+Thread  63 CPU time:  607077 us, elapsed time:    1872120 us
+Thread  64 CPU time:  603138 us, elapsed time:    1872100 us
+Thread  65 CPU time:  619631 us, elapsed time:    1872054 us
+Thread  66 CPU time:  629719 us, elapsed time:    1872051 us
+Thread  67 CPU time:  620654 us, elapsed time:    1872032 us
+Thread  68 CPU time:  616643 us, elapsed time:    1872015 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14799570 us, elapsed time : 46453023 us
+Process 1: Greedy process, threadcount= 45
+CPU Time : 27348695 us, elapsed time : 84814400 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 46
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.921764 s
+Thread   0 CPU time:  609352 us, elapsed time:    1924587 us
+Thread   1 CPU time:  610701 us, elapsed time:    1924624 us
+Thread   2 CPU time:  611260 us, elapsed time:    1924614 us
+Thread   3 CPU time:  616370 us, elapsed time:    1924614 us
+Thread   4 CPU time:  618425 us, elapsed time:    1924594 us
+Thread   5 CPU time:  627183 us, elapsed time:    1924595 us
+Thread   6 CPU time:  635091 us, elapsed time:    1924621 us
+Thread   7 CPU time:  630618 us, elapsed time:    1924576 us
+Thread   8 CPU time:  634999 us, elapsed time:    1923254 us
+Thread   9 CPU time:  638786 us, elapsed time:    1923237 us
+Thread  10 CPU time:  556878 us, elapsed time:    1923239 us
+Thread  11 CPU time:  531565 us, elapsed time:    1923237 us
+Thread  12 CPU time:  618000 us, elapsed time:    1922861 us
+Thread  13 CPU time:  614358 us, elapsed time:    1923264 us
+Thread  14 CPU time:  613781 us, elapsed time:    1923256 us
+Thread  15 CPU time:  608732 us, elapsed time:    1923231 us
+Thread  16 CPU time:  616725 us, elapsed time:    1923232 us
+Thread  17 CPU time:  643335 us, elapsed time:    1923209 us
+Thread  18 CPU time:  641594 us, elapsed time:    1923197 us
+Thread  19 CPU time:  635578 us, elapsed time:    1923179 us
+Thread  20 CPU time:  631371 us, elapsed time:    1923169 us
+Thread  21 CPU time:  631785 us, elapsed time:    1923160 us
+Thread  22 CPU time:  638290 us, elapsed time:    1923146 us
+Thread  23 CPU time:  611381 us, elapsed time:    1923139 us
+Thread  24 CPU time:  609257 us, elapsed time:    1882618 us
+Thread  25 CPU time:  611565 us, elapsed time:    1883595 us
+Thread  26 CPU time:  605899 us, elapsed time:    1883581 us
+Thread  27 CPU time:  608889 us, elapsed time:    1883566 us
+Thread  28 CPU time:  609294 us, elapsed time:    1883546 us
+Thread  29 CPU time:  630801 us, elapsed time:    1883502 us
+Thread  30 CPU time:  625461 us, elapsed time:    1883501 us
+Thread  31 CPU time:  634219 us, elapsed time:    1883481 us
+Thread  32 CPU time:  630675 us, elapsed time:    1881447 us
+Thread  33 CPU time:  635852 us, elapsed time:    1881433 us
+Thread  34 CPU time:  542428 us, elapsed time:    1881418 us
+Thread  35 CPU time:  522278 us, elapsed time:    1881400 us
+Thread  36 CPU time:  604937 us, elapsed time:    1901367 us
+Thread  37 CPU time:  615936 us, elapsed time:    1881356 us
+Thread  38 CPU time:  618706 us, elapsed time:    1881340 us
+Thread  39 CPU time:  614042 us, elapsed time:    1881319 us
+Thread  40 CPU time:  617609 us, elapsed time:    1881292 us
+Thread  41 CPU time:  637773 us, elapsed time:    1881274 us
+Thread  42 CPU time:  635104 us, elapsed time:    1881255 us
+Thread  43 CPU time:  640135 us, elapsed time:    1881228 us
+Thread  44 CPU time:  629412 us, elapsed time:    1880205 us
+Thread  45 CPU time:  625906 us, elapsed time:    1881190 us
+Thread  46 CPU time:  636500 us, elapsed time:    1881172 us
+Thread  47 CPU time:  625038 us, elapsed time:    1881642 us
+Thread  48 CPU time:  609679 us, elapsed time:    1860627 us
+Thread  49 CPU time:  616016 us, elapsed time:    1861611 us
+Thread  50 CPU time:  601117 us, elapsed time:    1861593 us
+Thread  51 CPU time:  612226 us, elapsed time:    1861565 us
+Thread  52 CPU time:  605185 us, elapsed time:    1861551 us
+Thread  53 CPU time:  642608 us, elapsed time:    1861522 us
+Thread  54 CPU time:  639421 us, elapsed time:    1861501 us
+Thread  55 CPU time:  636259 us, elapsed time:    1861483 us
+Thread  56 CPU time:  637223 us, elapsed time:    1859459 us
+Thread  57 CPU time:  640796 us, elapsed time:    1859447 us
+Thread  58 CPU time:  537554 us, elapsed time:    1859418 us
+Thread  59 CPU time:  527622 us, elapsed time:    1859407 us
+Thread  60 CPU time:  617380 us, elapsed time:    1879381 us
+Thread  61 CPU time:  607868 us, elapsed time:    1859366 us
+Thread  62 CPU time:  604313 us, elapsed time:    1859339 us
+Thread  63 CPU time:  608970 us, elapsed time:    1859324 us
+Thread  64 CPU time:  609627 us, elapsed time:    1859303 us
+Thread  65 CPU time:  635112 us, elapsed time:    1859275 us
+Thread  66 CPU time:  636563 us, elapsed time:    1859255 us
+Thread  67 CPU time:  624260 us, elapsed time:    1859238 us
+Thread  68 CPU time:  648295 us, elapsed time:    1857210 us
+Thread  69 CPU time:  634076 us, elapsed time:    1859193 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14826158 us, elapsed time : 46167835 us
+Process 1: Greedy process, threadcount= 46
+CPU Time : 28299886 us, elapsed time : 86127796 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 47
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.938448 s
+Thread   0 CPU time:  610313 us, elapsed time:    1941427 us
+Thread   1 CPU time:  606429 us, elapsed time:    1941819 us
+Thread   2 CPU time:  614661 us, elapsed time:    1941805 us
+Thread   3 CPU time:  611618 us, elapsed time:    1941806 us
+Thread   4 CPU time:  613544 us, elapsed time:    1941784 us
+Thread   5 CPU time:  648195 us, elapsed time:    1941787 us
+Thread   6 CPU time:  653142 us, elapsed time:    1941776 us
+Thread   7 CPU time:  644320 us, elapsed time:    1941774 us
+Thread   8 CPU time:  647858 us, elapsed time:    1941787 us
+Thread   9 CPU time:  651657 us, elapsed time:    1941691 us
+Thread  10 CPU time:  632137 us, elapsed time:    1941711 us
+Thread  11 CPU time:  531646 us, elapsed time:    1941691 us
+Thread  12 CPU time:  616683 us, elapsed time:    1941752 us
+Thread  13 CPU time:  621858 us, elapsed time:    1941739 us
+Thread  14 CPU time:  613221 us, elapsed time:    1941719 us
+Thread  15 CPU time:  617869 us, elapsed time:    1941710 us
+Thread  16 CPU time:  620256 us, elapsed time:    1941700 us
+Thread  17 CPU time:  659122 us, elapsed time:    1941680 us
+Thread  18 CPU time:  642165 us, elapsed time:    1941673 us
+Thread  19 CPU time:  640370 us, elapsed time:    1941657 us
+Thread  20 CPU time:  641256 us, elapsed time:    1941646 us
+Thread  21 CPU time:  640422 us, elapsed time:    1941636 us
+Thread  22 CPU time:  648096 us, elapsed time:    1941626 us
+Thread  23 CPU time:  616131 us, elapsed time:    1941630 us
+Thread  24 CPU time:  615902 us, elapsed time:    1919929 us
+Thread  25 CPU time:  620218 us, elapsed time:    1899912 us
+Thread  26 CPU time:  614133 us, elapsed time:    1899897 us
+Thread  27 CPU time:  605776 us, elapsed time:    1899875 us
+Thread  28 CPU time:  623029 us, elapsed time:    1899850 us
+Thread  29 CPU time:  637809 us, elapsed time:    1899823 us
+Thread  30 CPU time:  647698 us, elapsed time:    1899812 us
+Thread  31 CPU time:  633974 us, elapsed time:    1899790 us
+Thread  32 CPU time:  635236 us, elapsed time:    1900745 us
+Thread  33 CPU time:  640568 us, elapsed time:    1899750 us
+Thread  34 CPU time:  642336 us, elapsed time:    1899728 us
+Thread  35 CPU time:  528659 us, elapsed time:    1900705 us
+Thread  36 CPU time:  619075 us, elapsed time:    1900681 us
+Thread  37 CPU time:  609699 us, elapsed time:    1900669 us
+Thread  38 CPU time:  626986 us, elapsed time:    1900649 us
+Thread  39 CPU time:  613012 us, elapsed time:    1900623 us
+Thread  40 CPU time:  607234 us, elapsed time:    1900602 us
+Thread  41 CPU time:  650615 us, elapsed time:    1900582 us
+Thread  42 CPU time:  629087 us, elapsed time:    1900564 us
+Thread  43 CPU time:  634278 us, elapsed time:    1900537 us
+Thread  44 CPU time:  621473 us, elapsed time:    1900521 us
+Thread  45 CPU time:  655147 us, elapsed time:    1900501 us
+Thread  46 CPU time:  624880 us, elapsed time:    1900479 us
+Thread  47 CPU time:  610494 us, elapsed time:    1899952 us
+Thread  48 CPU time:  614232 us, elapsed time:    1897939 us
+Thread  49 CPU time:  617641 us, elapsed time:    1877922 us
+Thread  50 CPU time:  617800 us, elapsed time:    1877896 us
+Thread  51 CPU time:  611233 us, elapsed time:    1877868 us
+Thread  52 CPU time:  605221 us, elapsed time:    1877859 us
+Thread  53 CPU time:  646228 us, elapsed time:    1877832 us
+Thread  54 CPU time:  629903 us, elapsed time:    1877810 us
+Thread  55 CPU time:  624195 us, elapsed time:    1877794 us
+Thread  56 CPU time:  649980 us, elapsed time:    1878763 us
+Thread  57 CPU time:  645315 us, elapsed time:    1877754 us
+Thread  58 CPU time:  650980 us, elapsed time:    1877727 us
+Thread  59 CPU time:  514447 us, elapsed time:    1878704 us
+Thread  60 CPU time:  612091 us, elapsed time:    1878693 us
+Thread  61 CPU time:  613523 us, elapsed time:    1878666 us
+Thread  62 CPU time:  600724 us, elapsed time:    1878646 us
+Thread  63 CPU time:  612003 us, elapsed time:    1878631 us
+Thread  64 CPU time:  605560 us, elapsed time:    1878612 us
+Thread  65 CPU time:  614086 us, elapsed time:    1878574 us
+Thread  66 CPU time:  650828 us, elapsed time:    1878563 us
+Thread  67 CPU time:  640513 us, elapsed time:    1878545 us
+Thread  68 CPU time:  632807 us, elapsed time:    1878526 us
+Thread  69 CPU time:  624581 us, elapsed time:    1878500 us
+Thread  70 CPU time:  645565 us, elapsed time:    1878485 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15042969 us, elapsed time : 46601026 us
+Process 1: Greedy process, threadcount= 47
+CPU Time : 29226774 us, elapsed time : 88846485 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 48
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 1.952754 s
+Thread   0 CPU time:  614919 us, elapsed time:    1956009 us
+Thread   1 CPU time:  618474 us, elapsed time:    1956117 us
+Thread   2 CPU time:  616316 us, elapsed time:    1956111 us
+Thread   3 CPU time:  621626 us, elapsed time:    1956111 us
+Thread   4 CPU time:  618982 us, elapsed time:    1956090 us
+Thread   5 CPU time:  650881 us, elapsed time:    1956093 us
+Thread   6 CPU time:  650893 us, elapsed time:    1956115 us
+Thread   7 CPU time:  639358 us, elapsed time:    1956070 us
+Thread   8 CPU time:  648850 us, elapsed time:    1956044 us
+Thread   9 CPU time:  646235 us, elapsed time:    1956043 us
+Thread  10 CPU time:  655780 us, elapsed time:    1956017 us
+Thread  11 CPU time:  618230 us, elapsed time:    1956012 us
+Thread  12 CPU time:  620960 us, elapsed time:    1956052 us
+Thread  13 CPU time:  614028 us, elapsed time:    1956042 us
+Thread  14 CPU time:  616540 us, elapsed time:    1956021 us
+Thread  15 CPU time:  613021 us, elapsed time:    1956013 us
+Thread  16 CPU time:  619734 us, elapsed time:    1955989 us
+Thread  17 CPU time:  652789 us, elapsed time:    1955965 us
+Thread  18 CPU time:  642678 us, elapsed time:    1955959 us
+Thread  19 CPU time:  650269 us, elapsed time:    1955944 us
+Thread  20 CPU time:  645344 us, elapsed time:    1955936 us
+Thread  21 CPU time:  650814 us, elapsed time:    1955926 us
+Thread  22 CPU time:  635088 us, elapsed time:    1955892 us
+Thread  23 CPU time:  617982 us, elapsed time:    1955708 us
+Thread  24 CPU time:  615419 us, elapsed time:    1914517 us
+Thread  25 CPU time:  619258 us, elapsed time:    1914492 us
+Thread  26 CPU time:  625266 us, elapsed time:    1914479 us
+Thread  27 CPU time:  622570 us, elapsed time:    1914457 us
+Thread  28 CPU time:  613160 us, elapsed time:    1914417 us
+Thread  29 CPU time:  648055 us, elapsed time:    1914394 us
+Thread  30 CPU time:  632666 us, elapsed time:    1914392 us
+Thread  31 CPU time:  637834 us, elapsed time:    1914372 us
+Thread  32 CPU time:  647749 us, elapsed time:    1914346 us
+Thread  33 CPU time:  658056 us, elapsed time:    1914325 us
+Thread  34 CPU time:  622082 us, elapsed time:    1914310 us
+Thread  35 CPU time:  623378 us, elapsed time:    1914289 us
+Thread  36 CPU time:  626758 us, elapsed time:    1914267 us
+Thread  37 CPU time:  624672 us, elapsed time:    1914252 us
+Thread  38 CPU time:  618181 us, elapsed time:    1914231 us
+Thread  39 CPU time:  625316 us, elapsed time:    1914204 us
+Thread  40 CPU time:  627537 us, elapsed time:    1914183 us
+Thread  41 CPU time:  656415 us, elapsed time:    1914163 us
+Thread  42 CPU time:  637828 us, elapsed time:    1914144 us
+Thread  43 CPU time:  664212 us, elapsed time:    1914119 us
+Thread  44 CPU time:  657227 us, elapsed time:    1914098 us
+Thread  45 CPU time:  634830 us, elapsed time:    1914084 us
+Thread  46 CPU time:  649829 us, elapsed time:    1914061 us
+Thread  47 CPU time:  621947 us, elapsed time:    1934522 us
+Thread  48 CPU time:  616426 us, elapsed time:    1892519 us
+Thread  49 CPU time:  618188 us, elapsed time:    1892503 us
+Thread  50 CPU time:  614125 us, elapsed time:    1892473 us
+Thread  51 CPU time:  612164 us, elapsed time:    1892456 us
+Thread  52 CPU time:  618895 us, elapsed time:    1892442 us
+Thread  53 CPU time:  644174 us, elapsed time:    1892409 us
+Thread  54 CPU time:  668401 us, elapsed time:    1892380 us
+Thread  55 CPU time:  668956 us, elapsed time:    1892377 us
+Thread  56 CPU time:  636890 us, elapsed time:    1892355 us
+Thread  57 CPU time:  637841 us, elapsed time:    1892335 us
+Thread  58 CPU time:  656644 us, elapsed time:    1892312 us
+Thread  59 CPU time:  629490 us, elapsed time:    1892292 us
+Thread  60 CPU time:  620287 us, elapsed time:    1892276 us
+Thread  61 CPU time:  614414 us, elapsed time:    1892252 us
+Thread  62 CPU time:  623472 us, elapsed time:    1892229 us
+Thread  63 CPU time:  616544 us, elapsed time:    1892213 us
+Thread  64 CPU time:  617012 us, elapsed time:    1892192 us
+Thread  65 CPU time:  620385 us, elapsed time:    1892159 us
+Thread  66 CPU time:  654764 us, elapsed time:    1892149 us
+Thread  67 CPU time:  628488 us, elapsed time:    1892128 us
+Thread  68 CPU time:  637981 us, elapsed time:    1892108 us
+Thread  69 CPU time:  647878 us, elapsed time:    1892084 us
+Thread  70 CPU time:  649369 us, elapsed time:    1892067 us
+Thread  71 CPU time:  620494 us, elapsed time:    1912542 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15179791 us, elapsed time : 46944279 us
+Process 1: Greedy process, threadcount= 48
+CPU Time : 30383527 us, elapsed time : 91398370 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 49
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.154749 s
+Thread   0 CPU time:  538024 us, elapsed time:    2157350 us
+Thread   1 CPU time:  612466 us, elapsed time:    2157594 us
+Thread   2 CPU time:  621103 us, elapsed time:    2157573 us
+Thread   3 CPU time:  618218 us, elapsed time:    2157570 us
+Thread   4 CPU time:  622303 us, elapsed time:    2157571 us
+Thread   5 CPU time:  640977 us, elapsed time:    2157565 us
+Thread   6 CPU time:  667001 us, elapsed time:    2157591 us
+Thread   7 CPU time:  646839 us, elapsed time:    2157543 us
+Thread   8 CPU time:  651787 us, elapsed time:    2157530 us
+Thread   9 CPU time:  662575 us, elapsed time:    2157489 us
+Thread  10 CPU time:  644485 us, elapsed time:    2157505 us
+Thread  11 CPU time:  617711 us, elapsed time:    2157491 us
+Thread  12 CPU time:  617886 us, elapsed time:    2157529 us
+Thread  13 CPU time:  625505 us, elapsed time:    2157515 us
+Thread  14 CPU time:  619696 us, elapsed time:    2157495 us
+Thread  15 CPU time:  624295 us, elapsed time:    2157485 us
+Thread  16 CPU time:  620544 us, elapsed time:    2157478 us
+Thread  17 CPU time:  654457 us, elapsed time:    2157456 us
+Thread  18 CPU time:  640886 us, elapsed time:    2157451 us
+Thread  19 CPU time:  659601 us, elapsed time:    2157436 us
+Thread  20 CPU time:  660621 us, elapsed time:    2157427 us
+Thread  21 CPU time:  634062 us, elapsed time:    2157419 us
+Thread  22 CPU time:  647237 us, elapsed time:    2157404 us
+Thread  23 CPU time:  624658 us, elapsed time:    2157357 us
+Thread  24 CPU time:  543651 us, elapsed time:    2135362 us
+Thread  25 CPU time:  625693 us, elapsed time:    2116348 us
+Thread  26 CPU time:  609204 us, elapsed time:    2116338 us
+Thread  27 CPU time:  622923 us, elapsed time:    2116317 us
+Thread  28 CPU time:  620846 us, elapsed time:    2116291 us
+Thread  29 CPU time:  661243 us, elapsed time:    2116264 us
+Thread  30 CPU time:  629442 us, elapsed time:    2116253 us
+Thread  31 CPU time:  658569 us, elapsed time:    2116231 us
+Thread  32 CPU time:  646369 us, elapsed time:    2116200 us
+Thread  33 CPU time:  621774 us, elapsed time:    2116191 us
+Thread  34 CPU time:  659815 us, elapsed time:    2116169 us
+Thread  35 CPU time:  622762 us, elapsed time:    2116136 us
+Thread  36 CPU time:  611005 us, elapsed time:    2116116 us
+Thread  37 CPU time:  619403 us, elapsed time:    2116104 us
+Thread  38 CPU time:  618782 us, elapsed time:    2116066 us
+Thread  39 CPU time:  615818 us, elapsed time:    2116059 us
+Thread  40 CPU time:  625148 us, elapsed time:    2116043 us
+Thread  41 CPU time:  649095 us, elapsed time:    2116008 us
+Thread  42 CPU time:  658078 us, elapsed time:    2115996 us
+Thread  43 CPU time:  646102 us, elapsed time:    2115969 us
+Thread  44 CPU time:  640227 us, elapsed time:    2115957 us
+Thread  45 CPU time:  640284 us, elapsed time:    2115937 us
+Thread  46 CPU time:  640509 us, elapsed time:    2115895 us
+Thread  47 CPU time:  611990 us, elapsed time:    2115384 us
+Thread  48 CPU time:  527874 us, elapsed time:    2113380 us
+Thread  49 CPU time:  616689 us, elapsed time:    2094359 us
+Thread  50 CPU time:  611996 us, elapsed time:    2094335 us
+Thread  51 CPU time:  620676 us, elapsed time:    2094322 us
+Thread  52 CPU time:  615186 us, elapsed time:    2094302 us
+Thread  53 CPU time:  635670 us, elapsed time:    2094270 us
+Thread  54 CPU time:  644947 us, elapsed time:    2094250 us
+Thread  55 CPU time:  623454 us, elapsed time:    2094236 us
+Thread  56 CPU time:  649178 us, elapsed time:    2094214 us
+Thread  57 CPU time:  649468 us, elapsed time:    2094190 us
+Thread  58 CPU time:  647148 us, elapsed time:    2094169 us
+Thread  59 CPU time:  613236 us, elapsed time:    2094155 us
+Thread  60 CPU time:  611442 us, elapsed time:    2094136 us
+Thread  61 CPU time:  608145 us, elapsed time:    2094102 us
+Thread  62 CPU time:  608702 us, elapsed time:    2094094 us
+Thread  63 CPU time:  609384 us, elapsed time:    2094074 us
+Thread  64 CPU time:  612914 us, elapsed time:    2094052 us
+Thread  65 CPU time:  627736 us, elapsed time:    2094023 us
+Thread  66 CPU time:  636371 us, elapsed time:    2094008 us
+Thread  67 CPU time:  645950 us, elapsed time:    2093989 us
+Thread  68 CPU time:  648213 us, elapsed time:    2093965 us
+Thread  69 CPU time:  639453 us, elapsed time:    2093943 us
+Thread  70 CPU time:  620587 us, elapsed time:    2093926 us
+Thread  71 CPU time:  613042 us, elapsed time:    2093404 us
+Thread  72 CPU time:  540856 us, elapsed time:    2091377 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15172937 us, elapsed time : 51779824 us
+Process 1: Greedy process, threadcount= 49
+CPU Time : 30577049 us, elapsed time : 103174909 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 50
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.173469 s
+Thread   0 CPU time:  546704 us, elapsed time:    2175942 us
+Thread   1 CPU time:  548528 us, elapsed time:    2175926 us
+Thread   2 CPU time:  615688 us, elapsed time:    2175902 us
+Thread   3 CPU time:  617399 us, elapsed time:    2175890 us
+Thread   4 CPU time:  618719 us, elapsed time:    2175942 us
+Thread   5 CPU time:  645806 us, elapsed time:    2175936 us
+Thread   6 CPU time:  647609 us, elapsed time:    2174854 us
+Thread   7 CPU time:  640237 us, elapsed time:    2174791 us
+Thread   8 CPU time:  653263 us, elapsed time:    2174780 us
+Thread   9 CPU time:  642966 us, elapsed time:    2174749 us
+Thread  10 CPU time:  661346 us, elapsed time:    2174748 us
+Thread  11 CPU time:  624055 us, elapsed time:    2174791 us
+Thread  12 CPU time:  627545 us, elapsed time:    2174781 us
+Thread  13 CPU time:  622940 us, elapsed time:    2174753 us
+Thread  14 CPU time:  621099 us, elapsed time:    2174747 us
+Thread  15 CPU time:  624170 us, elapsed time:    2174734 us
+Thread  16 CPU time:  618566 us, elapsed time:    2174725 us
+Thread  17 CPU time:  648310 us, elapsed time:    2174701 us
+Thread  18 CPU time:  643687 us, elapsed time:    2174686 us
+Thread  19 CPU time:  649869 us, elapsed time:    2174681 us
+Thread  20 CPU time:  650699 us, elapsed time:    2174670 us
+Thread  21 CPU time:  641684 us, elapsed time:    2174657 us
+Thread  22 CPU time:  636047 us, elapsed time:    2174641 us
+Thread  23 CPU time:  611508 us, elapsed time:    2174376 us
+Thread  24 CPU time:  537595 us, elapsed time:    2133993 us
+Thread  25 CPU time:  537732 us, elapsed time:    2133974 us
+Thread  26 CPU time:  610700 us, elapsed time:    2133959 us
+Thread  27 CPU time:  621001 us, elapsed time:    2133938 us
+Thread  28 CPU time:  607430 us, elapsed time:    2134900 us
+Thread  29 CPU time:  629423 us, elapsed time:    2134868 us
+Thread  30 CPU time:  645390 us, elapsed time:    2132871 us
+Thread  31 CPU time:  633697 us, elapsed time:    2132855 us
+Thread  32 CPU time:  642876 us, elapsed time:    2132826 us
+Thread  33 CPU time:  643656 us, elapsed time:    2132813 us
+Thread  34 CPU time:  626288 us, elapsed time:    2132792 us
+Thread  35 CPU time:  620152 us, elapsed time:    2133771 us
+Thread  36 CPU time:  612223 us, elapsed time:    2133746 us
+Thread  37 CPU time:  614330 us, elapsed time:    2133733 us
+Thread  38 CPU time:  613351 us, elapsed time:    2133712 us
+Thread  39 CPU time:  623153 us, elapsed time:    2133688 us
+Thread  40 CPU time:  622285 us, elapsed time:    2133669 us
+Thread  41 CPU time:  636763 us, elapsed time:    2133643 us
+Thread  42 CPU time:  626663 us, elapsed time:    2133628 us
+Thread  43 CPU time:  634751 us, elapsed time:    2133601 us
+Thread  44 CPU time:  641709 us, elapsed time:    2133586 us
+Thread  45 CPU time:  629196 us, elapsed time:    2133565 us
+Thread  46 CPU time:  647130 us, elapsed time:    2133539 us
+Thread  47 CPU time:  619641 us, elapsed time:    2153012 us
+Thread  48 CPU time:  540646 us, elapsed time:    2112006 us
+Thread  49 CPU time:  539634 us, elapsed time:    2111987 us
+Thread  50 CPU time:  627511 us, elapsed time:    2111957 us
+Thread  51 CPU time:  610992 us, elapsed time:    2111945 us
+Thread  52 CPU time:  612911 us, elapsed time:    2112921 us
+Thread  53 CPU time:  616391 us, elapsed time:    2112894 us
+Thread  54 CPU time:  640335 us, elapsed time:    2110876 us
+Thread  55 CPU time:  626059 us, elapsed time:    2110861 us
+Thread  56 CPU time:  648561 us, elapsed time:    2110838 us
+Thread  57 CPU time:  633926 us, elapsed time:    2110816 us
+Thread  58 CPU time:  640432 us, elapsed time:    2110795 us
+Thread  59 CPU time:  604680 us, elapsed time:    2111781 us
+Thread  60 CPU time:  621292 us, elapsed time:    2111758 us
+Thread  61 CPU time:  625705 us, elapsed time:    2111736 us
+Thread  62 CPU time:  614569 us, elapsed time:    2111719 us
+Thread  63 CPU time:  612782 us, elapsed time:    2111699 us
+Thread  64 CPU time:  613864 us, elapsed time:    2111678 us
+Thread  65 CPU time:  634430 us, elapsed time:    2111638 us
+Thread  66 CPU time:  625408 us, elapsed time:    2111632 us
+Thread  67 CPU time:  636101 us, elapsed time:    2111613 us
+Thread  68 CPU time:  631610 us, elapsed time:    2111588 us
+Thread  69 CPU time:  624102 us, elapsed time:    2111566 us
+Thread  70 CPU time:  650465 us, elapsed time:    2111550 us
+Thread  71 CPU time:  606177 us, elapsed time:    2131026 us
+Thread  72 CPU time:  540303 us, elapsed time:    2090006 us
+Thread  73 CPU time:  539477 us, elapsed time:    2089992 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 15058444 us, elapsed time : 52200403 us
+Process 1: Greedy process, threadcount= 50
+CPU Time : 30795498 us, elapsed time : 106105560 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 51
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 2.187734 s
+Thread   0 CPU time:  545947 us, elapsed time:    2190491 us
+Thread   1 CPU time:  547559 us, elapsed time:    2190890 us
+Thread   2 CPU time:  550536 us, elapsed time:    2190887 us
+Thread   3 CPU time:  625334 us, elapsed time:    2190862 us
+Thread   4 CPU time:  617173 us, elapsed time:    2190863 us
+Thread   5 CPU time:  639331 us, elapsed time:    2190858 us
+Thread   6 CPU time:  642187 us, elapsed time:    2190881 us
+Thread   7 CPU time:  640337 us, elapsed time:    2190829 us
+Thread   8 CPU time:  655419 us, elapsed time:    2190814 us
+Thread   9 CPU time:  642084 us, elapsed time:    2190784 us
+Thread  10 CPU time:  634456 us, elapsed time:    2190784 us
+Thread  11 CPU time:  627173 us, elapsed time:    2190786 us
+Thread  12 CPU time:  618097 us, elapsed time:    2190822 us
+Thread  13 CPU time:  627218 us, elapsed time:    2190807 us
+Thread  14 CPU time:  622982 us, elapsed time:    2190784 us
+Thread  15 CPU time:  621530 us, elapsed time:    2190776 us
+Thread  16 CPU time:  621054 us, elapsed time:    2190771 us
+Thread  17 CPU time:  654303 us, elapsed time:    2190748 us
+Thread  18 CPU time:  649529 us, elapsed time:    2190741 us
+Thread  19 CPU time:  642499 us, elapsed time:    2190729 us
+Thread  20 CPU time:  634392 us, elapsed time:    2190721 us
+Thread  21 CPU time:  637117 us, elapsed time:    2190711 us
+Thread  22 CPU time:  645016 us, elapsed time:    2190699 us
+Thread  23 CPU time:  609196 us, elapsed time:    2190703 us
+Thread  24 CPU time:  546452 us, elapsed time:    2169189 us
+Thread  25 CPU time:  544388 us, elapsed time:    2149184 us
+Thread  26 CPU time:  543061 us, elapsed time:    2149163 us
+Thread  27 CPU time:  624505 us, elapsed time:    2149141 us
+Thread  28 CPU time:  627854 us, elapsed time:    2149113 us
+Thread  29 CPU time:  635691 us, elapsed time:    2149089 us
+Thread  30 CPU time:  649326 us, elapsed time:    2149077 us
+Thread  31 CPU time:  643935 us, elapsed time:    2149045 us
+Thread  32 CPU time:  650709 us, elapsed time:    2149029 us
+Thread  33 CPU time:  623618 us, elapsed time:    2149015 us
+Thread  34 CPU time:  651736 us, elapsed time:    2148994 us
+Thread  35 CPU time:  619573 us, elapsed time:    2148968 us
+Thread  36 CPU time:  626903 us, elapsed time:    2148956 us
+Thread  37 CPU time:  621261 us, elapsed time:    2148937 us
+Thread  38 CPU time:  625068 us, elapsed time:    2148916 us
+Thread  39 CPU time:  625940 us, elapsed time:    2148890 us
+Thread  40 CPU time:  619734 us, elapsed time:    2148875 us
+Thread  41 CPU time:  642681 us, elapsed time:    2148849 us
+Thread  42 CPU time:  646906 us, elapsed time:    2148826 us
+Thread  43 CPU time:  625694 us, elapsed time:    2148804 us
+Thread  44 CPU time:  657186 us, elapsed time:    2148788 us
+Thread  45 CPU time:  648437 us, elapsed time:    2148768 us
+Thread  46 CPU time:  657849 us, elapsed time:    2148742 us
+Thread  47 CPU time:  618015 us, elapsed time:    2149225 us
+Thread  48 CPU time:  552144 us, elapsed time:    2147206 us
+Thread  49 CPU time:  543786 us, elapsed time:    2127190 us
+Thread  50 CPU time:  543610 us, elapsed time:    2127161 us
+Thread  51 CPU time:  616525 us, elapsed time:    2127148 us
+Thread  52 CPU time:  614932 us, elapsed time:    2127127 us
+Thread  53 CPU time:  654898 us, elapsed time:    2127085 us
+Thread  54 CPU time:  636023 us, elapsed time:    2127080 us
+Thread  55 CPU time:  631529 us, elapsed time:    2127062 us
+Thread  56 CPU time:  628345 us, elapsed time:    2127043 us
+Thread  57 CPU time:  643464 us, elapsed time:    2127018 us
+Thread  58 CPU time:  644664 us, elapsed time:    2127003 us
+Thread  59 CPU time:  612608 us, elapsed time:    2126983 us
+Thread  60 CPU time:  609118 us, elapsed time:    2126942 us
+Thread  61 CPU time:  612915 us, elapsed time:    2126937 us
+Thread  62 CPU time:  615921 us, elapsed time:    2126922 us
+Thread  63 CPU time:  624801 us, elapsed time:    2126901 us
+Thread  64 CPU time:  614542 us, elapsed time:    2126877 us
+Thread  65 CPU time:  625751 us, elapsed time:    2126852 us
+Thread  66 CPU time:  636283 us, elapsed time:    2126838 us
+Thread  67 CPU time:  632619 us, elapsed time:    2126816 us
+Thread  68 CPU time:  639949 us, elapsed time:    2126793 us
+Thread  69 CPU time:  633164 us, elapsed time:    2126772 us
+Thread  70 CPU time:  621845 us, elapsed time:    2126757 us
+Thread  71 CPU time:  623582 us, elapsed time:    2127233 us
+Thread  72 CPU time:  541928 us, elapsed time:    2125200 us
+Thread  73 CPU time:  546566 us, elapsed time:    2105192 us
+Thread  74 CPU time:  542741 us, elapsed time:    2105171 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14950469 us, elapsed time : 52578741 us
+Process 1: Greedy process, threadcount= 51
+CPU Time : 31420775 us, elapsed time : 108998892 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 52
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.223250 s
+Thread   0 CPU time:  548787 us, elapsed time:    2226323 us
+Thread   1 CPU time:  545466 us, elapsed time:    2226680 us
+Thread   2 CPU time:  552291 us, elapsed time:    2226681 us
+Thread   3 CPU time:  552981 us, elapsed time:    2226671 us
+Thread   4 CPU time:  622571 us, elapsed time:    2226680 us
+Thread   5 CPU time:  645263 us, elapsed time:    2226695 us
+Thread   6 CPU time:  644127 us, elapsed time:    2226701 us
+Thread   7 CPU time:  648734 us, elapsed time:    2226665 us
+Thread   8 CPU time:  644001 us, elapsed time:    2226651 us
+Thread   9 CPU time:  651518 us, elapsed time:    2226620 us
+Thread  10 CPU time:  644032 us, elapsed time:    2226617 us
+Thread  11 CPU time:  621201 us, elapsed time:    2226614 us
+Thread  12 CPU time:  630531 us, elapsed time:    2226656 us
+Thread  13 CPU time:  622613 us, elapsed time:    2226644 us
+Thread  14 CPU time:  634359 us, elapsed time:    2226607 us
+Thread  15 CPU time:  630423 us, elapsed time:    2226605 us
+Thread  16 CPU time:  619834 us, elapsed time:    2226599 us
+Thread  17 CPU time:  647597 us, elapsed time:    2226576 us
+Thread  18 CPU time:  640729 us, elapsed time:    2226570 us
+Thread  19 CPU time:  649891 us, elapsed time:    2226559 us
+Thread  20 CPU time:  646164 us, elapsed time:    2226550 us
+Thread  21 CPU time:  644744 us, elapsed time:    2226541 us
+Thread  22 CPU time:  620997 us, elapsed time:    2226528 us
+Thread  23 CPU time:  621820 us, elapsed time:    2226529 us
+Thread  24 CPU time:  543460 us, elapsed time:    2205083 us
+Thread  25 CPU time:  563818 us, elapsed time:    2185068 us
+Thread  26 CPU time:  540568 us, elapsed time:    2185057 us
+Thread  27 CPU time:  544476 us, elapsed time:    2185036 us
+Thread  28 CPU time:  608849 us, elapsed time:    2185010 us
+Thread  29 CPU time:  636772 us, elapsed time:    2184981 us
+Thread  30 CPU time:  639038 us, elapsed time:    2184972 us
+Thread  31 CPU time:  625223 us, elapsed time:    2184937 us
+Thread  32 CPU time:  648411 us, elapsed time:    2184914 us
+Thread  33 CPU time:  651747 us, elapsed time:    2184909 us
+Thread  34 CPU time:  651945 us, elapsed time:    2184888 us
+Thread  35 CPU time:  620385 us, elapsed time:    2184861 us
+Thread  36 CPU time:  619078 us, elapsed time:    2184845 us
+Thread  37 CPU time:  620576 us, elapsed time:    2184829 us
+Thread  38 CPU time:  617075 us, elapsed time:    2184808 us
+Thread  39 CPU time:  628380 us, elapsed time:    2184785 us
+Thread  40 CPU time:  634193 us, elapsed time:    2184767 us
+Thread  41 CPU time:  641416 us, elapsed time:    2184740 us
+Thread  42 CPU time:  637928 us, elapsed time:    2184719 us
+Thread  43 CPU time:  634468 us, elapsed time:    2184698 us
+Thread  44 CPU time:  644739 us, elapsed time:    2184681 us
+Thread  45 CPU time:  642850 us, elapsed time:    2184661 us
+Thread  46 CPU time:  639818 us, elapsed time:    2184635 us
+Thread  47 CPU time:  627464 us, elapsed time:    2185119 us
+Thread  48 CPU time:  546009 us, elapsed time:    2183097 us
+Thread  49 CPU time:  562846 us, elapsed time:    2163082 us
+Thread  50 CPU time:  543577 us, elapsed time:    2163057 us
+Thread  51 CPU time:  544531 us, elapsed time:    2163040 us
+Thread  52 CPU time:  616745 us, elapsed time:    2163020 us
+Thread  53 CPU time:  633735 us, elapsed time:    2162977 us
+Thread  54 CPU time:  642053 us, elapsed time:    2162972 us
+Thread  55 CPU time:  638165 us, elapsed time:    2162954 us
+Thread  56 CPU time:  642625 us, elapsed time:    2162933 us
+Thread  57 CPU time:  632140 us, elapsed time:    2162907 us
+Thread  58 CPU time:  667218 us, elapsed time:    2162893 us
+Thread  59 CPU time:  607492 us, elapsed time:    2162872 us
+Thread  60 CPU time:  609887 us, elapsed time:    2162840 us
+Thread  61 CPU time:  606374 us, elapsed time:    2162823 us
+Thread  62 CPU time:  615895 us, elapsed time:    2162808 us
+Thread  63 CPU time:  610609 us, elapsed time:    2162777 us
+Thread  64 CPU time:  607388 us, elapsed time:    2162762 us
+Thread  65 CPU time:  638860 us, elapsed time:    2162731 us
+Thread  66 CPU time:  620175 us, elapsed time:    2162704 us
+Thread  67 CPU time:  637196 us, elapsed time:    2162702 us
+Thread  68 CPU time:  646143 us, elapsed time:    2162674 us
+Thread  69 CPU time:  639156 us, elapsed time:    2162658 us
+Thread  70 CPU time:  647866 us, elapsed time:    2162641 us
+Thread  71 CPU time:  611554 us, elapsed time:    2163113 us
+Thread  72 CPU time:  541974 us, elapsed time:    2161096 us
+Thread  73 CPU time:  546928 us, elapsed time:    2141085 us
+Thread  74 CPU time:  542658 us, elapsed time:    2141065 us
+Thread  75 CPU time:  543052 us, elapsed time:    2141038 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14930674 us, elapsed time : 53438562 us
+Process 1: Greedy process, threadcount= 52
+CPU Time : 31805528 us, elapsed time : 112970324 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 53
+Process 1 completed - is_greedy ? : y
+Total application elapsed time: 2.196477 s
+Thread   0 CPU time:  550796 us, elapsed time:    2199528 us
+Thread   1 CPU time:  552844 us, elapsed time:    2199886 us
+Thread   2 CPU time:  553540 us, elapsed time:    2199866 us
+Thread   3 CPU time:  547789 us, elapsed time:    2199865 us
+Thread   4 CPU time:  546105 us, elapsed time:    2199865 us
+Thread   5 CPU time:  636817 us, elapsed time:    2199854 us
+Thread   6 CPU time:  652803 us, elapsed time:    2199831 us
+Thread   7 CPU time:  632457 us, elapsed time:    2199838 us
+Thread   8 CPU time:  651525 us, elapsed time:    2199806 us
+Thread   9 CPU time:  654635 us, elapsed time:    2199804 us
+Thread  10 CPU time:  644115 us, elapsed time:    2199786 us
+Thread  11 CPU time:  620177 us, elapsed time:    2199834 us
+Thread  12 CPU time:  619309 us, elapsed time:    2199860 us
+Thread  13 CPU time:  624606 us, elapsed time:    2199851 us
+Thread  14 CPU time:  623217 us, elapsed time:    2199842 us
+Thread  15 CPU time:  626154 us, elapsed time:    2199834 us
+Thread  16 CPU time:  624132 us, elapsed time:    2199825 us
+Thread  17 CPU time:  656636 us, elapsed time:    2199798 us
+Thread  18 CPU time:  630022 us, elapsed time:    2199792 us
+Thread  19 CPU time:  660610 us, elapsed time:    2199778 us
+Thread  20 CPU time:  656539 us, elapsed time:    2199770 us
+Thread  21 CPU time:  640608 us, elapsed time:    2199759 us
+Thread  22 CPU time:  635810 us, elapsed time:    2199749 us
+Thread  23 CPU time:  619947 us, elapsed time:    2199744 us
+Thread  24 CPU time:  544994 us, elapsed time:    2178008 us
+Thread  25 CPU time:  551835 us, elapsed time:    2158001 us
+Thread  26 CPU time:  541707 us, elapsed time:    2157980 us
+Thread  27 CPU time:  546210 us, elapsed time:    2157955 us
+Thread  28 CPU time:  545536 us, elapsed time:    2157932 us
+Thread  29 CPU time:  644361 us, elapsed time:    2157907 us
+Thread  30 CPU time:  635744 us, elapsed time:    2157894 us
+Thread  31 CPU time:  666588 us, elapsed time:    2157866 us
+Thread  32 CPU time:  632528 us, elapsed time:    2157854 us
+Thread  33 CPU time:  622876 us, elapsed time:    2157834 us
+Thread  34 CPU time:  655809 us, elapsed time:    2157814 us
+Thread  35 CPU time:  619310 us, elapsed time:    2158780 us
+Thread  36 CPU time:  617277 us, elapsed time:    2158773 us
+Thread  37 CPU time:  620411 us, elapsed time:    2158754 us
+Thread  38 CPU time:  624756 us, elapsed time:    2158728 us
+Thread  39 CPU time:  628049 us, elapsed time:    2158707 us
+Thread  40 CPU time:  611235 us, elapsed time:    2158692 us
+Thread  41 CPU time:  631001 us, elapsed time:    2158659 us
+Thread  42 CPU time:  636581 us, elapsed time:    2158640 us
+Thread  43 CPU time:  638731 us, elapsed time:    2158627 us
+Thread  44 CPU time:  630870 us, elapsed time:    2158607 us
+Thread  45 CPU time:  642434 us, elapsed time:    2158585 us
+Thread  46 CPU time:  638259 us, elapsed time:    2158559 us
+Thread  47 CPU time:  611909 us, elapsed time:    2158042 us
+Thread  48 CPU time:  544490 us, elapsed time:    2156022 us
+Thread  49 CPU time:  545721 us, elapsed time:    2136001 us
+Thread  50 CPU time:  549744 us, elapsed time:    2135980 us
+Thread  51 CPU time:  552263 us, elapsed time:    2135964 us
+Thread  52 CPU time:  545492 us, elapsed time:    2135943 us
+Thread  53 CPU time:  644776 us, elapsed time:    2135911 us
+Thread  54 CPU time:  642239 us, elapsed time:    2135901 us
+Thread  55 CPU time:  624732 us, elapsed time:    2135878 us
+Thread  56 CPU time:  660149 us, elapsed time:    2135857 us
+Thread  57 CPU time:  646766 us, elapsed time:    2135833 us
+Thread  58 CPU time:  624874 us, elapsed time:    2135817 us
+Thread  59 CPU time:  620204 us, elapsed time:    2136791 us
+Thread  60 CPU time:  617154 us, elapsed time:    2136772 us
+Thread  61 CPU time:  621251 us, elapsed time:    2136753 us
+Thread  62 CPU time:  617990 us, elapsed time:    2136737 us
+Thread  63 CPU time:  610522 us, elapsed time:    2136717 us
+Thread  64 CPU time:  610284 us, elapsed time:    2136692 us
+Thread  65 CPU time:  629914 us, elapsed time:    2136653 us
+Thread  66 CPU time:  628471 us, elapsed time:    2136653 us
+Thread  67 CPU time:  622537 us, elapsed time:    2136631 us
+Thread  68 CPU time:  655108 us, elapsed time:    2136605 us
+Thread  69 CPU time:  638444 us, elapsed time:    2136589 us
+Thread  70 CPU time:  622904 us, elapsed time:    2136569 us
+Thread  71 CPU time:  618654 us, elapsed time:    2136043 us
+Thread  72 CPU time:  545858 us, elapsed time:    2134018 us
+Thread  73 CPU time:  542788 us, elapsed time:    2114009 us
+Thread  74 CPU time:  546221 us, elapsed time:    2113988 us
+Thread  75 CPU time:  545141 us, elapsed time:    2113963 us
+Thread  76 CPU time:  546999 us, elapsed time:    2113943 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14861193 us, elapsed time : 52795365 us
+Process 1: Greedy process, threadcount= 53
+CPU Time : 32160701 us, elapsed time : 113700431 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 54
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.222890 s
+Thread   0 CPU time:  549345 us, elapsed time:    2225646 us
+Thread   1 CPU time:  550350 us, elapsed time:    2226049 us
+Thread   2 CPU time:  547493 us, elapsed time:    2226045 us
+Thread   3 CPU time:  551276 us, elapsed time:    2226026 us
+Thread   4 CPU time:  546236 us, elapsed time:    2226025 us
+Thread   5 CPU time:  567951 us, elapsed time:    2226020 us
+Thread   6 CPU time:  640176 us, elapsed time:    2226046 us
+Thread   7 CPU time:  648985 us, elapsed time:    2225987 us
+Thread   8 CPU time:  648934 us, elapsed time:    2225985 us
+Thread   9 CPU time:  651246 us, elapsed time:    2225948 us
+Thread  10 CPU time:  662304 us, elapsed time:    2225941 us
+Thread  11 CPU time:  616031 us, elapsed time:    2225957 us
+Thread  12 CPU time:  619881 us, elapsed time:    2225995 us
+Thread  13 CPU time:  619943 us, elapsed time:    2225963 us
+Thread  14 CPU time:  622839 us, elapsed time:    2225956 us
+Thread  15 CPU time:  624627 us, elapsed time:    2225950 us
+Thread  16 CPU time:  616162 us, elapsed time:    2225942 us
+Thread  17 CPU time:  656573 us, elapsed time:    2225920 us
+Thread  18 CPU time:  651795 us, elapsed time:    2225912 us
+Thread  19 CPU time:  654675 us, elapsed time:    2225902 us
+Thread  20 CPU time:  642309 us, elapsed time:    2225891 us
+Thread  21 CPU time:  634957 us, elapsed time:    2225868 us
+Thread  22 CPU time:  638805 us, elapsed time:    2225869 us
+Thread  23 CPU time:  615311 us, elapsed time:    2225872 us
+Thread  24 CPU time:  545343 us, elapsed time:    2204373 us
+Thread  25 CPU time:  544572 us, elapsed time:    2184365 us
+Thread  26 CPU time:  550210 us, elapsed time:    2184347 us
+Thread  27 CPU time:  545634 us, elapsed time:    2184317 us
+Thread  28 CPU time:  546252 us, elapsed time:    2184299 us
+Thread  29 CPU time:  549778 us, elapsed time:    2184271 us
+Thread  30 CPU time:  662403 us, elapsed time:    2184262 us
+Thread  31 CPU time:  641170 us, elapsed time:    2184229 us
+Thread  32 CPU time:  666607 us, elapsed time:    2184213 us
+Thread  33 CPU time:  648106 us, elapsed time:    2184198 us
+Thread  34 CPU time:  635135 us, elapsed time:    2184178 us
+Thread  35 CPU time:  608713 us, elapsed time:    2184151 us
+Thread  36 CPU time:  627471 us, elapsed time:    2184139 us
+Thread  37 CPU time:  617410 us, elapsed time:    2184120 us
+Thread  38 CPU time:  615432 us, elapsed time:    2184094 us
+Thread  39 CPU time:  612096 us, elapsed time:    2184074 us
+Thread  40 CPU time:  617263 us, elapsed time:    2184058 us
+Thread  41 CPU time:  640975 us, elapsed time:    2184033 us
+Thread  42 CPU time:  679285 us, elapsed time:    2184011 us
+Thread  43 CPU time:  645820 us, elapsed time:    2183993 us
+Thread  44 CPU time:  639675 us, elapsed time:    2183972 us
+Thread  45 CPU time:  648866 us, elapsed time:    2183953 us
+Thread  46 CPU time:  648785 us, elapsed time:    2183928 us
+Thread  47 CPU time:  616936 us, elapsed time:    2184409 us
+Thread  48 CPU time:  544643 us, elapsed time:    2182382 us
+Thread  49 CPU time:  546999 us, elapsed time:    2162364 us
+Thread  50 CPU time:  545378 us, elapsed time:    2162344 us
+Thread  51 CPU time:  546071 us, elapsed time:    2162326 us
+Thread  52 CPU time:  544495 us, elapsed time:    2162307 us
+Thread  53 CPU time:  549745 us, elapsed time:    2162260 us
+Thread  54 CPU time:  623927 us, elapsed time:    2162261 us
+Thread  55 CPU time:  636557 us, elapsed time:    2162240 us
+Thread  56 CPU time:  636239 us, elapsed time:    2162220 us
+Thread  57 CPU time:  673614 us, elapsed time:    2162195 us
+Thread  58 CPU time:  621612 us, elapsed time:    2162179 us
+Thread  59 CPU time:  616845 us, elapsed time:    2162160 us
+Thread  60 CPU time:  612285 us, elapsed time:    2162142 us
+Thread  61 CPU time:  619273 us, elapsed time:    2162121 us
+Thread  62 CPU time:  609992 us, elapsed time:    2162087 us
+Thread  63 CPU time:  621460 us, elapsed time:    2162086 us
+Thread  64 CPU time:  614614 us, elapsed time:    2162061 us
+Thread  65 CPU time:  649302 us, elapsed time:    2162040 us
+Thread  66 CPU time:  649192 us, elapsed time:    2162019 us
+Thread  67 CPU time:  664679 us, elapsed time:    2159983 us
+Thread  68 CPU time:  690237 us, elapsed time:    2161974 us
+Thread  69 CPU time:  661274 us, elapsed time:    2161959 us
+Thread  70 CPU time:  655220 us, elapsed time:    2161938 us
+Thread  71 CPU time:  629205 us, elapsed time:    2162402 us
+Thread  72 CPU time:  545182 us, elapsed time:    2160394 us
+Thread  73 CPU time:  547932 us, elapsed time:    2140380 us
+Thread  74 CPU time:  545535 us, elapsed time:    2140359 us
+Thread  75 CPU time:  545953 us, elapsed time:    2140331 us
+Thread  76 CPU time:  548264 us, elapsed time:    2140317 us
+Thread  77 CPU time:  549765 us, elapsed time:    2140287 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14778204 us, elapsed time : 53422715 us
+Process 1: Greedy process, threadcount= 54
+CPU Time : 32799426 us, elapsed time : 117212105 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 55
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.227358 s
+Thread   0 CPU time:  547268 us, elapsed time:    2230478 us
+Thread   1 CPU time:  546958 us, elapsed time:    2230824 us
+Thread   2 CPU time:  545168 us, elapsed time:    2230825 us
+Thread   3 CPU time:  548177 us, elapsed time:    2230826 us
+Thread   4 CPU time:  546403 us, elapsed time:    2230826 us
+Thread   5 CPU time:  557471 us, elapsed time:    2230826 us
+Thread   6 CPU time:  564760 us, elapsed time:    2230833 us
+Thread   7 CPU time:  630247 us, elapsed time:    2230802 us
+Thread   8 CPU time:  648381 us, elapsed time:    2230804 us
+Thread   9 CPU time:  650107 us, elapsed time:    2230780 us
+Thread  10 CPU time:  643634 us, elapsed time:    2230779 us
+Thread  11 CPU time:  618517 us, elapsed time:    2230802 us
+Thread  12 CPU time:  621432 us, elapsed time:    2230826 us
+Thread  13 CPU time:  623056 us, elapsed time:    2230814 us
+Thread  14 CPU time:  622278 us, elapsed time:    2230808 us
+Thread  15 CPU time:  628886 us, elapsed time:    2230800 us
+Thread  16 CPU time:  622075 us, elapsed time:    2230795 us
+Thread  17 CPU time:  648466 us, elapsed time:    2230762 us
+Thread  18 CPU time:  648380 us, elapsed time:    2230755 us
+Thread  19 CPU time:  649525 us, elapsed time:    2230748 us
+Thread  20 CPU time:  653275 us, elapsed time:    2230737 us
+Thread  21 CPU time:  634299 us, elapsed time:    2230726 us
+Thread  22 CPU time:  640580 us, elapsed time:    2230715 us
+Thread  23 CPU time:  616033 us, elapsed time:    2230713 us
+Thread  24 CPU time:  542104 us, elapsed time:    2208659 us
+Thread  25 CPU time:  549332 us, elapsed time:    2189652 us
+Thread  26 CPU time:  544897 us, elapsed time:    2189632 us
+Thread  27 CPU time:  546150 us, elapsed time:    2189604 us
+Thread  28 CPU time:  545763 us, elapsed time:    2189590 us
+Thread  29 CPU time:  549784 us, elapsed time:    2189556 us
+Thread  30 CPU time:  549852 us, elapsed time:    2189548 us
+Thread  31 CPU time:  659786 us, elapsed time:    2189513 us
+Thread  32 CPU time:  652674 us, elapsed time:    2189506 us
+Thread  33 CPU time:  641165 us, elapsed time:    2189484 us
+Thread  34 CPU time:  653053 us, elapsed time:    2189459 us
+Thread  35 CPU time:  618519 us, elapsed time:    2189437 us
+Thread  36 CPU time:  612907 us, elapsed time:    2189426 us
+Thread  37 CPU time:  623040 us, elapsed time:    2189407 us
+Thread  38 CPU time:  611858 us, elapsed time:    2189363 us
+Thread  39 CPU time:  615172 us, elapsed time:    2189365 us
+Thread  40 CPU time:  614558 us, elapsed time:    2189345 us
+Thread  41 CPU time:  639871 us, elapsed time:    2189319 us
+Thread  42 CPU time:  658784 us, elapsed time:    2189297 us
+Thread  43 CPU time:  644176 us, elapsed time:    2189279 us
+Thread  44 CPU time:  636955 us, elapsed time:    2189259 us
+Thread  45 CPU time:  634057 us, elapsed time:    2189235 us
+Thread  46 CPU time:  628504 us, elapsed time:    2189214 us
+Thread  47 CPU time:  613198 us, elapsed time:    2189695 us
+Thread  48 CPU time:  543733 us, elapsed time:    2186675 us
+Thread  49 CPU time:  544814 us, elapsed time:    2167654 us
+Thread  50 CPU time:  546198 us, elapsed time:    2167639 us
+Thread  51 CPU time:  550379 us, elapsed time:    2167619 us
+Thread  52 CPU time:  545247 us, elapsed time:    2167597 us
+Thread  53 CPU time:  569217 us, elapsed time:    2167550 us
+Thread  54 CPU time:  549844 us, elapsed time:    2167551 us
+Thread  55 CPU time:  623965 us, elapsed time:    2167535 us
+Thread  56 CPU time:  649848 us, elapsed time:    2167506 us
+Thread  57 CPU time:  644446 us, elapsed time:    2167487 us
+Thread  58 CPU time:  630225 us, elapsed time:    2167472 us
+Thread  59 CPU time:  612079 us, elapsed time:    2167452 us
+Thread  60 CPU time:  606135 us, elapsed time:    2167428 us
+Thread  61 CPU time:  608221 us, elapsed time:    2167408 us
+Thread  62 CPU time:  610142 us, elapsed time:    2167391 us
+Thread  63 CPU time:  607820 us, elapsed time:    2167372 us
+Thread  64 CPU time:  603706 us, elapsed time:    2167345 us
+Thread  65 CPU time:  635468 us, elapsed time:    2167326 us
+Thread  66 CPU time:  634202 us, elapsed time:    2167308 us
+Thread  67 CPU time:  636295 us, elapsed time:    2167282 us
+Thread  68 CPU time:  620478 us, elapsed time:    2167262 us
+Thread  69 CPU time:  652049 us, elapsed time:    2167246 us
+Thread  70 CPU time:  629578 us, elapsed time:    2167225 us
+Thread  71 CPU time:  608250 us, elapsed time:    2167693 us
+Thread  72 CPU time:  546184 us, elapsed time:    2164674 us
+Thread  73 CPU time:  541384 us, elapsed time:    2145666 us
+Thread  74 CPU time:  548050 us, elapsed time:    2145645 us
+Thread  75 CPU time:  543665 us, elapsed time:    2145610 us
+Thread  76 CPU time:  544197 us, elapsed time:    2145603 us
+Thread  77 CPU time:  549786 us, elapsed time:    2145570 us
+Thread  78 CPU time:  549834 us, elapsed time:    2145553 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14655376 us, elapsed time : 53538604 us
+Process 1: Greedy process, threadcount= 55
+CPU Time : 32871598 us, elapsed time : 119642188 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------
+# of threads in optimal process = 24
+# of threads in greedy process = 56
+Process 0 completed - is_greedy ? : n
+Total application elapsed time: 2.267791 s
+Thread   0 CPU time:  548444 us, elapsed time:    2269646 us
+Thread   1 CPU time:  548884 us, elapsed time:    2269819 us
+Thread   2 CPU time:  547475 us, elapsed time:    2269818 us
+Thread   3 CPU time:  545456 us, elapsed time:    2269802 us
+Thread   4 CPU time:  545566 us, elapsed time:    2269821 us
+Thread   5 CPU time:  563596 us, elapsed time:    2269750 us
+Thread   6 CPU time:  564830 us, elapsed time:    2269794 us
+Thread   7 CPU time:  575143 us, elapsed time:    2269727 us
+Thread   8 CPU time:  640243 us, elapsed time:    2269700 us
+Thread   9 CPU time:  651337 us, elapsed time:    2269735 us
+Thread  10 CPU time:  654829 us, elapsed time:    2269723 us
+Thread  11 CPU time:  620427 us, elapsed time:    2269721 us
+Thread  12 CPU time:  619754 us, elapsed time:    2269750 us
+Thread  13 CPU time:  618104 us, elapsed time:    2269735 us
+Thread  14 CPU time:  618885 us, elapsed time:    2269720 us
+Thread  15 CPU time:  620174 us, elapsed time:    2269699 us
+Thread  16 CPU time:  612711 us, elapsed time:    2269690 us
+Thread  17 CPU time:  661184 us, elapsed time:    2269649 us
+Thread  18 CPU time:  648169 us, elapsed time:    2269662 us
+Thread  19 CPU time:  670319 us, elapsed time:    2269652 us
+Thread  20 CPU time:  641924 us, elapsed time:    2269643 us
+Thread  21 CPU time:  631357 us, elapsed time:    2269605 us
+Thread  22 CPU time:  632574 us, elapsed time:    2269597 us
+Thread  23 CPU time:  609116 us, elapsed time:    2269374 us
+Thread  24 CPU time:  545019 us, elapsed time:    2227888 us
+Thread  25 CPU time:  544174 us, elapsed time:    2227873 us
+Thread  26 CPU time:  548949 us, elapsed time:    2227852 us
+Thread  27 CPU time:  547845 us, elapsed time:    2227827 us
+Thread  28 CPU time:  546061 us, elapsed time:    2228797 us
+Thread  29 CPU time:  568962 us, elapsed time:    2227785 us
+Thread  30 CPU time:  567807 us, elapsed time:    2228763 us
+Thread  31 CPU time:  565896 us, elapsed time:    2228738 us
+Thread  32 CPU time:  642227 us, elapsed time:    2228724 us
+Thread  33 CPU time:  639496 us, elapsed time:    2228707 us
+Thread  34 CPU time:  648104 us, elapsed time:    2228681 us
+Thread  35 CPU time:  605857 us, elapsed time:    2228661 us
+Thread  36 CPU time:  625444 us, elapsed time:    2228645 us
+Thread  37 CPU time:  619259 us, elapsed time:    2228627 us
+Thread  38 CPU time:  616681 us, elapsed time:    2228598 us
+Thread  39 CPU time:  612420 us, elapsed time:    2228585 us
+Thread  40 CPU time:  622462 us, elapsed time:    2228565 us
+Thread  41 CPU time:  637995 us, elapsed time:    2228541 us
+Thread  42 CPU time:  635639 us, elapsed time:    2228516 us
+Thread  43 CPU time:  652682 us, elapsed time:    2228500 us
+Thread  44 CPU time:  636682 us, elapsed time:    2228477 us
+Thread  45 CPU time:  681971 us, elapsed time:    2228448 us
+Thread  46 CPU time:  655159 us, elapsed time:    2228435 us
+Thread  47 CPU time:  612489 us, elapsed time:    2247911 us
+Thread  48 CPU time:  545341 us, elapsed time:    2205898 us
+Thread  49 CPU time:  543260 us, elapsed time:    2205874 us
+Thread  50 CPU time:  543321 us, elapsed time:    2205859 us
+Thread  51 CPU time:  543363 us, elapsed time:    2205838 us
+Thread  52 CPU time:  545056 us, elapsed time:    2206813 us
+Thread  53 CPU time:  564029 us, elapsed time:    2205785 us
+Thread  54 CPU time:  564377 us, elapsed time:    2206765 us
+Thread  55 CPU time:  561062 us, elapsed time:    2206753 us
+Thread  56 CPU time:  653628 us, elapsed time:    2206719 us
+Thread  57 CPU time:  592423 us, elapsed time:    2206709 us
+Thread  58 CPU time:  636012 us, elapsed time:    2206691 us
+Thread  59 CPU time:  616866 us, elapsed time:    2206672 us
+Thread  60 CPU time:  612629 us, elapsed time:    2206645 us
+Thread  61 CPU time:  621131 us, elapsed time:    2206633 us
+Thread  62 CPU time:  617308 us, elapsed time:    2206607 us
+Thread  63 CPU time:  612640 us, elapsed time:    2206588 us
+Thread  64 CPU time:  604909 us, elapsed time:    2206567 us
+Thread  65 CPU time:  623737 us, elapsed time:    2206547 us
+Thread  66 CPU time:  651367 us, elapsed time:    2206526 us
+Thread  67 CPU time:  632200 us, elapsed time:    2206502 us
+Thread  68 CPU time:  628684 us, elapsed time:    2206486 us
+Thread  69 CPU time:  632399 us, elapsed time:    2206467 us
+Thread  70 CPU time:  633851 us, elapsed time:    2206446 us
+Thread  71 CPU time:  611009 us, elapsed time:    2225914 us
+Thread  72 CPU time:  544753 us, elapsed time:    2183903 us
+Thread  73 CPU time:  542850 us, elapsed time:    2183884 us
+Thread  74 CPU time:  545535 us, elapsed time:    2183860 us
+Thread  75 CPU time:  545220 us, elapsed time:    2183839 us
+Thread  76 CPU time:  542392 us, elapsed time:    2184819 us
+Thread  77 CPU time:  562616 us, elapsed time:    2183797 us
+Thread  78 CPU time:  560339 us, elapsed time:    2184761 us
+Thread  79 CPU time:  558627 us, elapsed time:    2184760 us
+
+
+Process 0: Optimal process, threadcount = 24
+CPU Time : 14590501 us, elapsed time : 54472832 us
+Process 1: Greedy process, threadcount= 56
+CPU Time : 33372214 us, elapsed time : 123950071 us
+--------------------------------------------------------------
+Press ENTER to run next test
+Press Ctrl+C to stop
+--------------------------------------------------------------

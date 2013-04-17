@@ -1,0 +1,50 @@
+1. Compilation
+	Run "make" to compile the program. Use "make debug" to enable debug mode.
+
+2. Running
+	An executable named "matrix" will be created in the folder.
+	It takes variable number of arguments
+
+	./matrix p|t [#_of_extra_threads_than_optimal_group] [matrix_size]
+
+	The arguments included in square brackets [] are optional.
+	Description of arguments :
+
+	p|t : 	p denotes process-wide-scheduling, t denotes thread-wide-scheduling
+		the type of scheduling to be used must be specified.
+
+	[#_of_extra_threads_than_optimal_group] :
+		this denotes that the greedy group will have 
+		number of threads = (optimal count + extra thread count)
+		Thus, total number of threads in program :
+		total = (optimal) + (optimal + extra)
+		Default value = optimal thread count
+		
+	[matrix_size]:
+		This denotes size of square matrix
+		Default value = 512
+
+
+3. Testing
+	The folder contains a script called "run-tests" which runs the "matrix"
+	If the source is not compiled, then the run-test script will compile it
+	and then run various tests.
+
+	The script runs the matrix program in process-wide-cfs mode.
+	It runs the matrix program with number of extra threads varying from 1 to 32.
+
+	To run it for thread-wide-cfs, change the arg variable to 't'.
+	Make necessary changes in the "run-tests" file.
+	Refer to the "run-tests" file for more details.
+
+
+4. List of Files
+	i.   Folders 				- gtthreads and gtmatrix : sources
+	ii.  Makefile
+	iii. README 				- This file
+	iv.  run-tests 				- The script to run the tests
+	v.   results_process_wide_cfs.txt	- Results for process wide cfs scheduler
+	vi.  results_thread_wide_cfs.txt	- Results for thread wide cfs scheduler
+	vii. Project_1_Final_Report.pdf		- Final report
+	viii.Project_1_Interim_Report.pdf	- Interim report
+
